@@ -1,3 +1,4 @@
-# NCMEC Parser
-### by Jamie
+# DoctorsofData
+
+### NCMEC Parser - Jamie
 ### credits to github - jcmack
