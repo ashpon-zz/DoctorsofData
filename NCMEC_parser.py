@@ -40,7 +40,7 @@ for i in range(int(response_temp_json['totalPages'])):
             df.set_value(index_num,'name',person_name)
             df.set_value(index_num,'age',person_info['age'])
             df.set_value(index_num,'sex',person_info['sex'])
-            df.set_value(index_num,'ethnicity',peson_info['race'])
+            df.set_value(index_num,'ethnicity',person_info['race'])
             df.set_value(index_num,'height',person_info['height'])
             df.set_value(index_num,'weight',person_info['weight'])
             df.set_value(index_num,'eye_color',person_info['eyeColor'])
