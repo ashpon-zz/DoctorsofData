@@ -1,0 +1,220 @@
+name,age,sex,ethnicity,height,weight,eye_color,hair_color,NCMEC_case#,case_type,missing_date,missing_city,missing_county,missing_state
+SHALEA ALDRIDGE,16,female,black,64,120,brown,black,21247,endangeredRunaway,"Jul 25, 2017 12:00:00 AM",BROOKLYN,Kings,NY
+PATRICK ALFORD,14,male,biracial,56,65,brown,black,1139843,endangeredMissing,"Jan 22, 2010 12:00:00 AM",BROOKLYN,Kings,NY
+HEIDI ALLEN,42,female,white,69,140,blue,ltBrown,1157260,missing,"Apr 3, 1994 12:00:00 AM",NEW HAVEN,Oswego,NY
+SHERRY ALVAREZ,17,female,hispanic,67,150,brown,black,1306872,endangeredRunaway,"Aug 27, 2017 12:00:00 AM",BROOKLYN,Kings,NY
+KESSIAH ANDERSON,16,female,black,62,110,brown,black,1297347,endangeredRunaway,"Apr 26, 2017 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+KENIA ARRIAGA,14,female,hispanic,60,96,brown,black,1308219,endangeredRunaway,"Sep 17, 2017 12:00:00 AM",POUGHKEEPSIE,Dutchess,NY
+CELINE ATELEK,13,female,white,62,134,brown,blonde,1305009,endangeredRunaway,"Aug 9, 2017 12:00:00 AM",HIGHLAND,Ulster,NY
+STEFAN BARBAT-ALEXANDER,17,male,biracial,50,50,brown,brown,1105285,familyAbduct,"Jul 24, 2008 12:00:00 AM",BROOKLYN,Kings,NY
+VIRY BARRERA,17,female,hispanic,62,119,brown,brown,1294415,endangeredRunaway,"Apr 16, 2017 12:00:00 AM",HEMPSTEAD,Nassau County,NY
+STEVIE BATES,24,female,black,66,115,brown,black,1203762,missing,"Apr 27, 2012 12:00:00 AM",MANHATTAN,New York,NY
+REBECCA BELLICK,17,female,white,62,157,brown,brown,1304269,endangeredRunaway,"Jul 21, 2017 12:00:00 AM",SCHENECTADY,Schenectady,NY
+CARLIANA BENEZRA,17,female,white,63,176,brown,,1308158,endangeredRunaway,"Sep 14, 2017 12:00:00 AM",NEW WINDSOR,Orange County,NY
+ANGELA BERNADOTTE,19,female,black,65,165,brown,black,1267225,endangeredRunaway,"Jul 9, 2015 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+TAYLOR BESS,15,female,white,61,140,blue,brown,21281,endangeredRunaway,"Aug 14, 2017 12:00:00 AM",HORNELL,Steuben,NY
+BONITA BICKWIT,59,female,white,59,95,brown,brown,781647,endangeredMissing,"Jul 27, 1973 12:00:00 AM",NARROWSBURG,Sullivan,NY
+TYDAIZA BRADLEY,17,female,black,68,170,black,black,1298325,endangeredRunaway,"Dec 13, 2016 12:00:00 AM",HASTINGS ON HUDSON,Westchester,NY
+SANDRA BREED,69,female,white,67,150,unknown,brown,1210678,endangeredMissing,"May 22, 1964 12:00:00 AM",CHITTENANGO,Madison,NY
+ALLEN BRISCOE,47,male,black,68,140,brown,black,600428,nonFamilyAbduct,"Dec 13, 1985 12:00:00 AM",PHILADELPHIA,,PA
+GABRIELLA BROAD,15,female,white,60,160,blue,brown,1306255,endangeredRunaway,"Aug 24, 2017 12:00:00 AM",BINGHAMTON,Broome,NY
+IMANI BROWN,16,female,black,65,166,brown,black,19334,endangeredRunaway,"Jun 1, 2016 12:00:00 AM",BRONX,Bronx,NY
+ANDRE BRYANT,28,male,black,19,10,brown,black,721896,nonFamilyAbduct,"Mar 29, 1989 12:00:00 AM",BROOKLYN,Kings,NY
+JOHNATHON CANNA,15,male,white,69,170,blue,ltBrown,1301132,endangeredRunaway,"Jun 27, 2017 12:00:00 AM",ROCHESTER,Monroe County,NY
+CHRISTOPHER CAROLAN,14,male,white,66,130,brown,brown,1299373,endangeredRunaway,"May 3, 2017 12:00:00 AM",BINGHAMTON,Broome,NY
+LONDON CARTER,4,female,black,38,45,brown,brown,21153,familyAbduct,"Jul 23, 2017 12:00:00 AM",BUFFALO,Erie,NY
+SHILAH CARTER,16,female,black,63,125,brown,black,1303234,endangeredRunaway,"Jul 21, 2017 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+JAVIER CASTILLO,16,male,hispanic,63,115,brown,brown,1278952,endangeredRunaway,"Oct 3, 2016 12:00:00 AM",CENTRAL ISLIP,Suffolk,NY
+JOSEFFINN CEGLIA,14,male,white,56,36,brown,brown,1245355,endangeredMissing,"Mar 1, 2015 12:00:00 AM",WELLSVILLE,,NY
+JOSEFFINN CEGLIA,14,male,white,56,36,brown,brown,1245355,endangeredMissing,"Mar 1, 2015 12:00:00 AM",WELLSVILLE,,NY
+STEVEN CHAIT,66,male,white,70,155,green,brown,1066634,Section 5779,"Mar 13, 1972 12:00:00 AM",NEW YORK,New York,NY
+HEIDY CHAVEZ,17,female,hispanic,66,125,brown,black,1274322,endangeredRunaway,"Oct 29, 2015 12:00:00 AM",BROOKLYN,Kings,NY
+HEIDY CHAVEZ,17,female,hispanic,66,125,brown,black,1274322,endangeredRunaway,"Oct 29, 2015 12:00:00 AM",BROOKLYN,Kings,NY
+SHAWN CHECKSFIELD,17,male,white,69,140,brown,brown,1306077,endangeredRunaway,"Aug 21, 2017 12:00:00 AM",CICERO,Onondaga,NY
+SHARAUN COLE,46,female,black,66,110,brown,brown,857497,endangeredMissing,"Feb 25, 1983 12:00:00 AM",NEW YORK,New York,NY
+CYNTHIA CONSTANTINE,63,female,white,63,117,blue,blonde,1161743,nonFamilyAbduct,"Jul 11, 1969 12:00:00 AM",OAKDALE,Suffolk,NY
+STARMEKA COPELAND,17,female,black,64,120,brown,black,20804,endangeredRunaway,"Apr 8, 2017 12:00:00 AM",HASTINGS ON HUDSON,Westchester,NY
+MARTIN CRUMBLISH,53,male,white,72,165,blue,blonde,600888,nonFamilyAbduct,"May 3, 1981 12:00:00 AM",DOBBS FERRY,Westchester,NY
+BRIANNA CRUZ,17,female,hispanic,60,140,brown,brown,1296513,endangeredRunaway,"May 5, 2017 12:00:00 AM",RONKONKOMA,Suffolk,NY
+VALARIE CUCCIA,63,female,white,66,120,brown,black,1175398,missing,"May 4, 1974 12:00:00 AM",NEW YORK,Kings,NY
+STEVEN DAMMAN,64,male,white,38,32,blue,blonde,1149544,endangeredMissing,"Oct 31, 1955 12:00:00 AM",EAST MEADOW,Nassau,NY
+CHRISTOPHER DANSBY,30,male,black,30,30,brown,black,724088,nonFamilyAbduct,"May 18, 1989 12:00:00 AM",NEW YORK,New York,NY
+MICKAYLA DAVIS,16,female,white,66,185,brown,black,1300600,endangeredRunaway,"Jun 21, 2017 12:00:00 AM",CORNWALL,Orange,NY
+SELAH DAVIS,9,female,black,24,20,brown,black,1091315,endangeredMissing,"Feb 15, 2008 12:00:00 AM",BRONX,Bronx,NY
+DANEA DECHANTS,16,female,black,66,160,hazel,brown,21404,endangeredRunaway,"Sep 19, 2017 12:00:00 AM",SCHENECTADY,Schenectady,NY
+TIFFANY DIXON,38,female,hispanic,62,105,brown,black,760721,endangeredMissing,"Oct 10, 1991 12:00:00 AM",BROOKLYN,Kings,NY
+JOHN GREECE DOE 1976,-1,male,unknown,0,0,unknown,brown,1245432,unidentified,"Mar 9, 1976 12:00:00 AM",GREECE,,NY
+UNKNOWN DOE1987,-1,unknown,black,61,0,unknown,black,1184325,unidentified,"Dec 17, 1987 12:00:00 AM",RYE,Westchester,NY
+JANE DOE1988,-1,female,white,58,0,unknown,unknown,1106805,unidentified,"Jul 31, 1988 12:00:00 AM",IRONDEQUOIT,,NY
+JANE DOE1988,-1,female,,63,105,hazel,ltBrown,1115332,unidentified,"Feb 14, 1988 12:00:00 AM",MOUNT VERNON,,NY
+JANE DOE1991,-1,female,black,63,0,unknown,unknown,1244004,unidentified,"May 1, 1991 12:00:00 AM",ARVERNE,,NY
+JOHN DOE1991,-1,male,black,68,155,black,brown,1184314,unidentified,"Aug 31, 1991 12:00:00 AM",BRONX,,NY
+JOHN DOE1992,-1,male,black,68,141,brown,brown,1184320,unidentified,"Jan 5, 1992 12:00:00 AM",ROCKAWAY BEACH,,NY
+JANE DOE1993,-1,female,white,66,0,unknown,unknown,1244003,unidentified,"Mar 29, 1993 12:00:00 AM",BROOKLYN,,NY
+JANE DOE1994,-1,female,black,63,0,unknown,brown,1146362,unidentified,"Feb 5, 1994 12:00:00 AM",QUEENS,,NY
+JANE DOE1998,-1,female,black,65,0,unknown,black,1244002,unidentified,"Sep 10, 1998 12:00:00 AM",BROOKLYN,Kings,NY
+JOHN DOE1998,-1,male,black,69,0,unknown,black,1224544,unidentified,"May 3, 1998 12:00:00 AM",WOODBURY,Orange,NY
+JANE DOE2000,-1,female,white,66,140,unknown,unknown,1104098,unidentified,"May 6, 2000 12:00:00 AM",NEW YORK,,NY
+JOHN DOE2000,-1,male,hispanic,71,156,brown,black,1184317,unidentified,"Aug 8, 2000 12:00:00 AM",NEW YORK,,NY
+JOHN DOE2001,-1,male,hispanic,65,143,brown,black,1184313,unidentified,"Oct 15, 2001 12:00:00 AM",BRONX,Bronx,NY
+JOHN DOE2002,-1,male,,67,135,brown,black,1107684,unidentified,"Dec 22, 2002 12:00:00 AM",QUEENS,,NY
+JANE DOE2003,-1,female,white,59,0,unknown,unknown,1107110,unidentified,"Feb 10, 2003 12:00:00 AM",MANHATTAN,,NY
+JOHN DOE2003,-1,male,black,0,0,unknown,unknown,1184323,unidentified,"Jun 28, 2003 12:00:00 AM",QUEENS,,NY
+JOHN DOE2005,-1,male,black,65,0,,,1184315,unidentified,"Jul 25, 2005 12:00:00 AM",BROOKLYN,,NY
+JANE DOE2006,-1,female,whiteHisp,0,0,brown,brown,1107277,unidentified,"Apr 5, 2006 12:00:00 AM",MOUNT KISCO,,NY
+JADEN DUNKLEY,15,male,white,67,160,brown,brown,1307639,endangeredRunaway,"Sep 7, 2017 12:00:00 AM",CORNING,Steuben,NY
+CORNELIA ENRIGHT,66,female,white,62,115,blue,blonde,18973,missing,"Apr 24, 1969 12:00:00 AM",SCHENECTADY,Schenectady,NY
+DAVID ESPERANCE,12,male,black,63,130,brown,black,21357,endangeredRunaway,"Aug 29, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+SEAN EVANS,35,male,white,36,45,green,blonde,601206,nonFamilyAbduct,"May 17, 1984 12:00:00 AM",WATERTOWN,,NY
+SAYURY FLORES,13,female,hispanic,62,115,brown,brown,1305941,endangeredRunaway,"Jul 26, 2017 12:00:00 AM",BRONX,Bronx,NY
+HELEN FLORES FLORES,18,female,hispanic,64,130,brown,brown,1284841,endangeredRunaway,"Dec 25, 2016 12:00:00 AM",YONKERS,Westchester,NY
+JAYSON FRANCO,16,male,hispanic,66,180,brown,brown,1302329,endangeredRunaway,"Jul 3, 2017 12:00:00 AM",YONKERS,Westchester,NY
+CRAIG FREAR,30,male,white,71,190,brown,red,993450,endangeredMissing,"Jun 27, 2004 12:00:00 AM",SCOTIA,Schenectady,NY
+JANICE FULLAM,53,female,white,67,130,green,brown,1151932,endangeredMissing,"Oct 30, 1981 12:00:00 AM",HAUPPAUGE,Suffolk,NY
+MELANIE GARCIA,13,female,hispanic,61,98,brown,brown,1306347,endangeredRunaway,"Aug 25, 2017 12:00:00 AM",STATEN ISLAND,Richmond,NY
+MELANIE GARCIA,13,female,hispanic,61,98,brown,brown,1308042,endangeredRunaway,"Sep 15, 2017 12:00:00 AM",STATEN ISLAND,Richmond,NY
+NATHANIEL GILBERT,16,male,biracial,67,180,hazel,ltBrown,1299394,endangeredRunaway,"Jun 9, 2017 12:00:00 AM",BUFFALO,Erie,NY
+SHAUNTAY GILLIAM,20,female,black,66,170,brown,brown,1253959,missing,"Sep 1, 2015 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+COLIN GILLIS,23,male,white,72,170,blue,blonde,1197145,,"Mar 11, 2012 12:00:00 AM",TUPPER LAKE,Franklin,NY
+MARIAH GIOUSOS,17,female,white,66,110,brown,brown,18388,endangeredRunaway,"Jul 14, 2015 12:00:00 AM",BELLMORE,Nassau,NY
+NATHALIE GRACIA,14,female,whiteHisp,57,115,brown,brown,21264,endangeredRunaway,"Apr 23, 2017 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+JONATHAN GRANISON-BRADLEY,32,male,black,69,145,brown,black,1216793,missing,"May 4, 2005 12:00:00 AM",ROCHESTER,Monroe,NY
+LIZZIE GRANT,17,female,black,65,180,brown,brown,1298875,endangeredRunaway,"May 20, 2017 12:00:00 AM",PLEASANTVILLE,Westchester,NY
+TRAVIS GREAVES,17,male,black,71,145,brown,black,1245233,endangeredRunaway,"Mar 8, 2015 12:00:00 AM",BROOKLYN,Kings,NY
+IVORY GREEN,30,female,black,59,110,brown,black,986724,endangeredRunaway,"Mar 6, 2004 12:00:00 AM",UTICA,Oneida,NY
+SHANINA GREGG,17,female,black,60,110,black,black,1286273,endangeredRunaway,"Jan 12, 2017 12:00:00 AM",ROCHESTER,Monroe,NY
+STARDASHA GRIFFIN,16,female,biracial,64,150,brown,black,1306411,endangeredRunaway,"Aug 25, 2017 12:00:00 AM",POUGHKEEPSIE,Dutchess,NY
+TAGEANA GRIFFITH,13,female,black,47,45,brown,black,1171053,familyAbduct,"Jun 13, 2010 12:00:00 AM",NIAGARA FALLS,Niagara,NY
+JULIE GUTHRIE,46,female,white,48,55,blue,brown,777216,endangeredMissing,"Feb 6, 1977 12:00:00 AM",KATONAH,Westchester,NY
+JULIE GUTHRIE,46,female,white,48,55,blue,brown,777216,endangeredMissing,"Feb 6, 1977 12:00:00 AM",KATONAH,Westchester,NY
+ALYSSA HALL,16,female,white,64,161,hazel,brown,1304270,endangeredRunaway,"Jul 31, 2017 12:00:00 AM",SCHENECTADY,Schenectady,NY
+JORDAN HALL,37,male,white,72,160,blue,brown,8693,endangeredMissing,"Mar 23, 2001 12:00:00 AM",BUFFALO,Erie,NY
+NATHANIEL HARRIS,17,male,biracial,68,140,brown,black,1301701,endangeredRunaway,"Jul 2, 2017 12:00:00 AM",BUFFALO,Erie County,NY
+JENNIFER HARSHMAN,18,female,white,66,120,blue,blonde,18521,endangeredRunaway,"Jun 7, 2015 12:00:00 AM",PORT JERVIS,,NY
+YOUSSEF HASSAN,14,male,biracial,46,45,brown,black,1157637,familyAbduct,"Aug 11, 2010 12:00:00 AM",NEW YORK,New York,NY
+LEANNE HAUSBERG,33,female,biracial,64,120,brown,brown,861608,endangeredMissing,"Mar 18, 1999 12:00:00 AM",BROOKLYN,Kings,NY
+JOSEPH HELT,48,male,white,69,150,brown,blonde,1150362,endangeredMissing,"Jan 16, 1987 12:00:00 AM",ELLENVILLE,Ulster,NY
+DENIESE HIRAMAN,31,female,black,63,90,brown,brown,876542,endangeredMissing,"Aug 27, 1999 12:00:00 AM",QUEENS,Queens,NY
+EQUILLA HODRICK,41,female,black,59,80,hazel,brown,601724,nonFamilyAbduct,"Aug 12, 1985 12:00:00 AM",BRONX,Bronx,NY
+DOMONIQUE HOLLEY-GRISHAM,24,male,black,69,160,brown,black,1116693,endangeredRunaway,"Feb 12, 2009 12:00:00 AM",ROCHESTER,Monroe,NY
+FREDERICK HOLMES,64,male,white,30,30,blue,blonde,1129018,endangeredMissing,"May 25, 1955 12:00:00 AM",GRAHAMSVILLE,Sullivan,NY
+MARIAH HOWE,22,female,black,64,160,brown,brown,16183,endangeredMissing,"Dec 11, 2012 12:00:00 AM",ROCHESTER,,NY
+JEREMIAH HUGER,36,male,black,42,45,brown,brown,601769,nonFamilyAbduct,"Jun 25, 1985 12:00:00 AM",BRONX,Bronx,NY
+HOLLY HUGHES,43,female,white,48,50,blue,brown,601770,nonFamilyAbduct,"Jul 15, 1981 12:00:00 AM",STATEN ISLAND,,NY
+MAYELIN INOA,17,female,hispanic,60,115,brown,brown,1285405,endangeredRunaway,"Sep 29, 2016 12:00:00 AM",BRONX,Bronx,NY
+NIKOS INSLEE,17,male,white,68,145,brown,brown,1278943,endangeredRunaway,"May 28, 2016 12:00:00 AM",SYOSSET,Nassau,NY
+JUSTICE JACKSON,15,female,black,62,140,brown,black,21403,endangeredRunaway,"Sep 19, 2017 12:00:00 AM",SCHENECTADY,Schenectady,NY
+OCTAVIA JACKSON,16,female,black,61,135,brown,black,1302746,endangeredRunaway,"Jun 18, 2017 12:00:00 AM",ELMSFORD,Westchester,NY
+TIAHEASE JACKSON,44,female,black,56,90,black,black,701777,nonFamilyAbduct,"Aug 14, 1983 12:00:00 AM",STATEN ISLAND,Richmond,NY
+KEIJONTE JACKSON-CARRERO,16,male,black,65,130,brown,brown,1290129,endangeredRunaway,"Feb 25, 2017 12:00:00 AM",BRONX,Bronx,NY
+NIKHITA JAGTIANI,8,female,asian,42,35,brown,black,1244838,familyAbduct,"Sep 14, 2013 12:00:00 AM",NEW YORK,New York,NY
+NIKHITA JAGTIANI,8,female,unknown,0,0,brown,brown,19336,familyAbduct,"Oct 1, 2013 12:00:00 AM",REGO PARK,Queens,NY
+TRINITY JOHNSON,14,female,white,63,137,brown,brown,1306409,endangeredRunaway,"Aug 25, 2017 12:00:00 AM",POUGHKEEPSIE,Dutchess,NY
+TRINITY JOHNSON,14,female,white,63,137,brown,brown,21318,endangeredRunaway,"Aug 25, 2017 12:00:00 AM",POUGHKEEPSIE,Dutchess,NY
+YAVANKA JOHNSON,15,female,biracial,62,190,brown,brown,1293958,endangeredRunaway,"Jan 24, 2017 12:00:00 AM",YONKERS,Westchester,NY
+DAJEE JONES,18,female,black,62,160,brown,black,1295610,missing,"Apr 30, 2017 12:00:00 AM",JAMAICA,Queens,NY
+EMILY JUAN,13,female,biracial,27,19,brown,brown,997267,familyAbduct,"Sep 5, 2004 12:00:00 AM",FLUSHING,New York,NY
+SAMANTHA KIBALO,18,female,white,33,22,brown,ltBrown,904495,familyAbduct,"Feb 3, 2001 12:00:00 AM",SUFFERN,Rockland,NY
+SONIA LANDAVERDE,16,female,white,64,180,brown,unknown,20576,endangeredRunaway,"Mar 3, 2017 12:00:00 AM",BRENTWOOD,Suffolk,NY
+AALIYAH LEGRAND,15,female,black,64,120,brown,black,1306410,endangeredRunaway,"Aug 25, 2017 12:00:00 AM",POUGHKEEPSIE,Dutchess,NY
+AIDAN LIN,8,male,asian,30,40,brown,black,1216020,familyAbduct,"Sep 1, 2011 12:00:00 AM",NEW YORK,New York,NY
+LUIS LOPEZ LUGO,29,male,whiteHisp,53,90,black,black,855408,endangeredMissing,"Jun 20, 1998 12:00:00 AM",GUAYANILLA,,PR
+SUZANNE LYALL,39,female,white,63,165,blue,brown,986276,missing,"Mar 2, 1998 12:00:00 AM",ALBANY,Albany,NY
+ASHA MAGNANIMI,17,female,white,63,120,brown,brown,1299593,endangeredRunaway,"Jun 11, 2017 12:00:00 AM",BUFFALO,Erie,NY
+SHANAYSIA MARTIN,16,female,black,66,140,brown,black,1302756,endangeredRunaway,"Dec 8, 2016 12:00:00 AM",BROOKLYN,Kings,NY
+SHANAYSIA MARTIN,16,female,black,66,140,brown,black,20309,missing,"Dec 8, 2016 12:00:00 AM",BROOKLYN,,NY
+JACQUAH MCCALL,15,male,black,68,140,brown,black,1292210,endangeredRunaway,"Mar 23, 2017 12:00:00 AM",SCHENECTADY,Schenectady,NY
+TAMMIE MCCORMICK,45,female,white,65,108,hazel,ltBrown,603748,endangeredMissing,"Apr 29, 1986 12:00:00 AM",SARATOGA SPRINGS,Saratoga Springs,NY
+JOSE MEDINA,37,male,whiteHisp,61,130,brown,black,862480,endangeredMissing,"Feb 19, 1995 12:00:00 AM",MOCA,,PR
+SYLVIA MEDINA,19,female,white,62,135,brown,black,1306714,missing,"Aug 25, 2017 12:00:00 AM",BUFFALO,Erie County,NY
+EROL MELENDEZ,17,male,hispanic,65,140,brown,brown,1284720,endangeredRunaway,"Dec 22, 2016 12:00:00 AM",DOBBS FERRY,Westchester County,NY
+YULIA MELGARA,15,female,whiteHisp,65,114,brown,brown,21195,endangeredRunaway,"Aug 3, 2017 12:00:00 AM",ALBANY,Albany,NY
+BRANDON MEMA,19,male,white,24,45,green,blonde,1005751,familyAbduct,"Oct 27, 2000 12:00:00 AM",BROOKLYN,Kings,NY
+LAUNA MERRITT,50,female,white,59,145,brown,brown,1162984,endangeredMissing,"Feb 22, 1983 12:00:00 AM",SYRACUSE,Onondaga,NY
+THOMAS MEUSE,60,male,white,64,120,blue,brown,1143109,endangeredMissing,"Aug 9, 1971 12:00:00 AM",SCHENECTADY,Schenectady,NY
+ZOEI MOORE,17,female,black,68,225,brown,black,1292135,endangeredRunaway,"Mar 23, 2017 12:00:00 AM",BROOKLYN,Kings,NY
+ANGEL MORAN,15,male,hispanic,64,109,brown,black,1296837,endangeredRunaway,"Apr 3, 2017 12:00:00 AM",YONKERS,Westchester County,NY
+KELLY MORRISSEY,49,female,white,64,130,brown,blonde,603372,nonFamilyAbduct,"Jun 12, 1984 12:00:00 AM",LYNBROOK,Nassau,NY
+RUSSELL MORT,38,male,white,36,30,brown,ltBrown,603374,nonFamilyAbduct,"May 5, 1982 12:00:00 AM",NIAGARA FALLS,Niagara,NY
+JACOB MUFFOLETTO,15,male,white,69,134,blue,brown,1298831,endangeredRunaway,"Jun 3, 2017 12:00:00 AM",BUFFALO,Erie,NY
+ROBIN MURPHY,39,female,white,69,140,blue,black,NY5379,unknown,"Apr 9, 1995 12:00:00 AM",CARMEL,PUTNAM,NY
+KIRAN NAIR,11,male,asian,52,63,brown,black,1194865,familyAbduct,"Jul 28, 2006 12:00:00 AM",HONEOYE FALLS,Monroe,NY
+AUDREY NERENBERG,58,female,white,64,115,brown,ltBrown,603933,missing,"Jul 15, 1977 12:00:00 AM",BROOKLYN,Kings,NY
+DIANA NEWSOME,18,female,black,64,130,black,black,1283930,endangeredRunaway,"Dec 5, 2016 12:00:00 AM",BRONX,Bronx,NY
+NATALIE NIMRI,11,female,white,36,65,brown,brown,1158881,familyAbduct,"Aug 29, 2010 12:00:00 AM",CAMILLUS,Onondaga,NY
+CIERA NIXON,17,female,black,65,241,brown,brown,1301498,endangeredRunaway,"Jun 29, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+ALEXANDER NOGUERA,8,male,hispanic,41,35,brown,blonde,1199829,familyAbduct,"May 5, 2012 12:00:00 AM",QUEENS,Jamaica,NY
+MAKAYLA OLMSTEAD,17,female,black,66,160,brown,black,20829,endangeredRunaway,"May 5, 2017 12:00:00 AM",CAMILLUS,Onondaga,NY
+TIFFANY ORTIZ,18,female,whiteHisp,59,92,brown,blonde,17766,missing,"Nov 29, 2014 12:00:00 AM",ROOSEVELT,,NY
+NAUTICA OTT,16,female,black,66,125,brown,black,1289172,endangeredRunaway,"Feb 15, 2017 12:00:00 AM",ROCHESTER,Monroe,NY
+ALEYAH PARKER,15,female,black,61,147,brown,black,1306992,endangeredRunaway,"Aug 26, 2017 12:00:00 AM",SYOSSET,Nassau County,NY
+ETAN PATZ,44,male,white,40,50,blue,ltBrown,603392,nonFamilyAbduct,"May 25, 1979 12:00:00 AM",NEW YORK,,NY
+CESILIA PENA,55,female,hispanic,57,111,brown,black,601859,nonFamilyAbduct,"Oct 6, 1976 12:00:00 AM",NEW YORK,New York,NY
+ALICE PEREIRA,50,female,white,42,35,hazel,black,604013,endangeredMissing,"Jul 7, 1972 12:00:00 AM",STATEN ISLAND,Richmond,NY
+PRINCESS PEREZ,23,female,whiteHisp,25,25,brown,brown,860028,endangeredMissing,"Jun 15, 1996 12:00:00 AM",BRONX,,NY
+HERIBERTO PEREZ-MEDRANO,18,male,white,73,160,brown,black,20572,endangeredRunaway,"Feb 23, 2017 12:00:00 AM",BAYPORT,Suffolk,NY
+DEMI PETERSON,17,female,black,57,135,brown,brown,1303437,endangeredRunaway,"Jul 23, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+JUSTIN PIECHOWICZ,14,male,white,64,119,brown,brown,1304666,endangeredRunaway,"Aug 5, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+JUSTIN PIECHOWICZ,14,male,white,64,119,brown,brown,21202,endangeredRunaway,"Aug 5, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+BREAUNNA PITTS,16,female,black,64,175,brown,black,1301250,endangeredRunaway,"Jun 13, 2017 12:00:00 AM",ROCHESTER,Monroe,NY
+ANDREW PORTER-JACKSON,16,male,biracial,70,167,brown,brown,1307540,endangeredRunaway,"Sep 2, 2017 12:00:00 AM",MONTROSE,Westchester,NY
+KIRK QUINTONS,45,male,black,57,70,brown,black,601872,nonFamilyAbduct,"Sep 18, 1983 12:00:00 AM",NEW YORK,New York,NY
+JALIEK RAINWALKER,22,male,biracial,66,105,green,brown,1083247,endangeredMissing,"Nov 1, 2007 12:00:00 AM",GREENWICH,Washington,NY
+MELISSA REITER,26,female,white,33,30,blue,brown,3623,familyAbduct,"May 23, 1992 12:00:00 AM",LITTLE NECK,Queens,NY
+JEHUDI RIVERA,16,male,hispanic,71,149,brown,brown,1307411,endangeredRunaway,"Sep 4, 2017 12:00:00 AM",YONKERS,Westchester,NY
+LIZSANDRA RIVERA,15,female,hispanic,66,200,brown,brown,1305486,endangeredRunaway,"Aug 13, 2017 12:00:00 AM",BUFFALO,Erie,NY
+JANESSIA ROBERTS,16,female,hispanic,61,160,brown,brown,1281574,endangeredRunaway,"Nov 11, 2016 12:00:00 AM",HAWTHORNE,Westchester,NY
+MARIELA ROBLERO BRAVO,20,female,hispanic,53,105,brown,brown,1205883,endangeredRunaway,"Oct 11, 2012 12:00:00 AM",BRENTWOOD,Suffolk,NY
+KATELYN RODRIGUEZ,16,female,unknown,62,100,brown,blonde,21229,endangeredRunaway,"Aug 8, 2017 12:00:00 AM",RIVERHEAD,Suffolk,NY
+PEDRO RODRIGUEZ PARADA,16,male,hispanic,60,120,brown,brown,1278556,endangeredRunaway,"Oct 3, 2016 12:00:00 AM",HUNTINGTON STATION,Suffolk,NY
+QUA'MERE ROGERS,12,male,black,29,30,brown,black,1145099,endangeredMissing,"Dec 1, 2008 12:00:00 AM",SYRACUSE,Onondaga,NY
+CINDY ROWLES,48,female,white,65,130,hazel,sandy,776875,endangeredMissing,"Aug 16, 1986 12:00:00 AM",KINGSTON,Ulster,NY
+BONITA SANDERS,33,female,black,30,30,brown,black,601887,nonFamilyAbduct,"Sep 14, 1986 12:00:00 AM",ATLANTIC CITY,,NJ
+MARLENE SANTANA,31,female,hispanic,20,7,brown,brown,601889,nonFamilyAbduct,"Oct 21, 1985 12:00:00 AM",NEW YORK,New York,NY
+MONIQUE SANTIAGO,39,female,hispanic,59,90,brown,black,741122,nonFamilyAbduct,"Mar 29, 1990 12:00:00 AM",ALBANY,Albany,NY
+TIRREL SANTIAGO,28,male,black,66,115,brown,ltBrown,1180750,endangeredMissing,"Aug 20, 2005 12:00:00 AM",BROOKLYN,Kings,NY
+MARK SEELMAN,43,male,white,72,160,brown,brown,747878,endangeredMissing,"Jun 7, 1990 12:00:00 AM",REMSEN,Oneida,NY
+AMBER SHAH,11,female,asian,30,20,brown,brown,1082208,endangeredMissing,"Aug 1, 2007 12:00:00 AM",BALDWIN,Nassau,NY
+AMBER SHAH,11,female,asian,30,20,brown,brown,1082208,endangeredMissing,"Aug 1, 2007 12:00:00 AM",BALDWIN,Nassau,NY
+AMBER SHAH,11,female,asian,30,20,brown,brown,1082208,endangeredMissing,"Aug 1, 2007 12:00:00 AM",BALDWIN,Nassau,NY
+DENISE SHEEHY,63,female,white,63,103,brown,brown,924905,endangeredMissing,"Jul 7, 1970 12:00:00 AM",WOODSIDE,Queens,NY
+JAQUA SIMMONS,15,male,black,65,172,brown,black,1304857,endangeredRunaway,"Aug 7, 2017 12:00:00 AM",CANAAN,Columbia,NY
+BLINDA SIMPSON,3,female,white,30,50,brown,brown,21350,familyAbduct,"Sep 1, 2017 12:00:00 AM",WELLSVILLE,Allegany,NY
+NATALIE SLICK,17,female,white,66,120,brown,brown,1304283,endangeredRunaway,"Aug 1, 2017 12:00:00 AM",VALATIE,Columbia,NY
+CARINE SMITH,14,female,black,68,125,brown,black,1303143,endangeredRunaway,"Jun 28, 2017 12:00:00 AM",OZONE PARK,Queens,NY
+JACQUELINE SMITH,34,female,white,67,130,brown,auburn,881318,endangeredRunaway,"Aug 7, 1999 12:00:00 AM",BROOKLYN,Kings,NY
+ANGEL SOLER,16,male,white,66,160,brown,black,21261,endangeredRunaway,"Jul 21, 2017 12:00:00 AM",ROOSEVELT,Nassau,NY
+STEVEY SOMMERVILLE,41,male,black,65,125,brown,black,1165370,endangeredRunaway,"Sep 6, 1990 12:00:00 AM",BROOKLYN,Queens,NY
+LINDA ST. GERMAINE,57,female,white,61,100,blue,brown,1171686,endangeredMissing,"Feb 13, 1973 12:00:00 AM",PLATTSBURGH,Clinton,NY
+AMANDA STOKES,17,female,black,65,280,brown,black,1269436,endangeredRunaway,"May 13, 2016 12:00:00 AM",MOUNT VERNON,Westchester,NY
+TONY STRAYHORN,16,male,whiteHisp,70,126,,,19077,missing,"Feb 7, 2016 12:00:00 AM",PLEASANTVILLE,,NY
+BRIAN SULLIVAN,29,male,white,71,170,blue,black,1076583,missing,"Jul 7, 2007 12:00:00 AM",ROCHESTER,Monroe,NY
+ALEXIS SWORD,16,female,white,61,125,blue,red,1306357,endangeredRunaway,"Aug 21, 2017 12:00:00 AM",ROCHESTER,Monroe,NY
+RAEQUAN TARVER,16,male,black,68,116,brown,black,1304858,endangeredRunaway,"Aug 7, 2017 12:00:00 AM",CANAAN,Columbia,NY
+ARKADIY TASHMAN,29,male,white,74,170,grey,ltBrown,1007600,endangeredRunaway,"Jan 26, 2005 12:00:00 AM",STATEN ISLAND,Richmond,NY
+JUANA TAYLOR,16,female,blackHisp,66,160,brown,black,20289,missing,"Aug 23, 2016 12:00:00 AM",ROCHESTER,,NY
+TANISHA TAYLOR,15,female,black,61,160,brown,black,1304888,endangeredRunaway,"Aug 4, 2017 12:00:00 AM",JAMAICA,Queens County,NY
+LAMYA TEAMS,16,female,black,63,218,brown,brown,1307704,endangeredRunaway,"Sep 5, 2017 12:00:00 AM",HASTINGS-ON-HUDSON,Westchester,NY
+ESSENCE TERRERO,18,female,hispanic,66,140,brown,brown,1279958,endangeredRunaway,"May 3, 2016 12:00:00 AM",HAWTHORNE,Westchester,NY
+ANGELIE THOMAS,15,female,black,65,110,brown,brown,1299062,endangeredRunaway,"Jun 2, 2017 12:00:00 AM",HAWTHORNE,Westchester,NY
+TROY THORMAN,17,male,black,71,175,brown,black,1288011,endangeredRunaway,"Jan 21, 2017 12:00:00 AM",BROOKLYN,Kings County,NY
+SHERYL TILLINGHAST,61,female,white,63,140,brown,brown,1156469,endangeredMissing,"Sep 24, 1973 12:00:00 AM",WASSAIC,Dutchess,NY
+EDMOND TILLMAN,26,male,black,63,145,brown,brown,1023109,endangeredRunaway,"Aug 10, 2005 12:00:00 AM",BROOKLYN,Kings,NY
+MARIELA ROBLERO BRAVO,20,female,hispanic,53,105,brown,brown,1205883,endangeredRunaway,"Oct 11, 2012 12:00:00 AM",BRENTWOOD,Suffolk,NY
+EMILY TOLLINCHI,15,female,hispanic,57,120,brown,brown,1292532,endangeredRunaway,"Mar 17, 2017 12:00:00 AM",NEW YORK,New York,NY
+YIM TSUI,39,male,asian,70,141,black,black,8845,unknown,"Aug 26, 1998 12:00:00 AM",NEW HYDE PARK,,NY
+AUSTEN UGWECHES,14,male,biracial,56,70,brown,brown,15149,familyAbduct,"Dec 12, 2009 12:00:00 AM",BROOKLYN,Kings,NY
+AUSTEN UGWECHES,14,male,biracial,56,70,brown,brown,15149,familyAbduct,"Dec 12, 2009 12:00:00 AM",BROOKLYN,Kings,NY
+ITAYETZIN VASQUEZ,18,female,hispanic,62,108,brown,black,11062016,endangeredRunaway,"Nov 5, 2016 12:00:00 AM",PENN YAN,Yates,NY
+ALYSA VAZQUEZ,16,female,white,65,149,brown,black,21106,endangeredRunaway,"Jul 15, 2017 12:00:00 AM",VALLEY STREAM,Nassau,NY
+SEVEHN VENABLE,16,male,black,71,110,brown,brown,1293005,endangeredRunaway,"Mar 31, 2017 12:00:00 AM",LOCKPORT,Niagara,NY
+SHANE WALKER,29,male,black,36,23,brown,black,727904,nonFamilyAbduct,"Aug 10, 1989 12:00:00 AM",NEW YORK,New York,NY
+MITCHEL WEISER,60,male,white,67,140,hazel,brown,781648,endangeredMissing,"Jul 27, 1973 12:00:00 AM",NARROWSBURG,Sullivan,NY
+MARY WESOLOWSKI,59,female,white,54,85,blue,ltBrown,759895,endangeredMissing,"Aug 18, 1971 12:00:00 AM",GLENS FALLS,Warren,NY
+TIFFANY WESTFORD,26,female,black,36,35,brown,black,796293,familyAbduct,"Nov 13, 1993 12:00:00 AM",AMITYVILLE,Suffolk,NY
+TANYA WHITTED,18,female,black,60,118,brown,black,21348,endangeredRunaway,"Aug 16, 2017 12:00:00 AM",SYOSSET,Nassau,NY
+KIMBALEE WILLIAMS,16,female,black,70,160,brown,black,20230,endangeredRunaway,"Nov 19, 2016 12:00:00 AM",BROOKLYN,Kings,NY
+SARA WOOD,36,female,white,60,96,blue,brown,782700,nonFamilyAbduct,"Aug 18, 1993 12:00:00 AM",LITCHFIELD,,NY
+ZHI SHAN WU,16,female,asian,62,135,brown,black,1305699,endangeredRunaway,"May 31, 2017 12:00:00 AM",BROOKLYN,Kings,NY
+DIVINE YOUNG,16,male,black,66,140,brown,brown,1307669,endangeredRunaway,"Sep 8, 2017 12:00:00 AM",ROCHESTER,Monroe,NY
+YOXY ZUNIGA ROMERO,16,male,hispanic,67,140,brown,black,1284842,endangeredRunaway,"Dec 25, 2016 12:00:00 AM",YONKERS,Westchester,NY

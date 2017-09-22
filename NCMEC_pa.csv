@@ -1,0 +1,131 @@
+name,age,sex,ethnicity,height,weight,eye_color,hair_color,NCMEC_case#,case_type,missing_date,missing_city,missing_county,missing_state
+TARNUE ABRAHAM,15,male,black,65,141,brown,black,1307598,endangeredRunaway,"Sep 8, 2017 12:00:00 AM",BETHLEHEM,Northampton County,PA
+KALIS ADAMS,17,male,black,64,130,brown,black,1284078,endangeredRunaway,"Dec 14, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+ALISSA ALBIZU,15,female,hispanic,62,112,brown,brown,1263035,endangeredRunaway,"Oct 16, 2015 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+HAMZA ALI,4,male,black,25,12,brown,brown,1251042,endangeredMissing,"Apr 8, 2013 12:00:00 AM",UPPER DARBY,Delaware,PA
+ARALE BARANDA,17,female,hispanic,64,127,brown,brown,1271739,endangeredRunaway,"Jun 30, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia County,PA
+JEANINE BARNWELL,35,female,black,48,55,brown,black,600207,nonFamilyAbduct,"Nov 15, 1985 12:00:00 AM",PHILADELPHIA,,PA
+GENELLE BRADFORD,36,female,black,63,96,black,black,864072,endangeredRunaway,"Apr 27, 1999 12:00:00 AM",PITTSBURGH,Alleghany,PA
+ALLEN BRISCOE,47,male,black,68,140,brown,black,600428,nonFamilyAbduct,"Dec 13, 1985 12:00:00 AM",PHILADELPHIA,,PA
+ERIKA BROWN,26,female,black,64,130,brown,black,1060384,endangeredRunaway,"May 16, 2006 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+IYANNA BURNETT,16,female,biracial,61,125,brown,brown,1279833,endangeredRunaway,"Oct 18, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+TRACY BYRD,49,female,white,60,95,blue,blonde,600609,nonFamilyAbduct,"Mar 7, 1983 12:00:00 AM",BENSALEM,Bucks,PA
+TRU CARSON,16,female,black,66,115,brown,black,1295921,endangeredRunaway,"May 2, 2017 12:00:00 AM",LAKE ARIEL,Wayne,PA
+AMAYA CASTRO,17,female,hispanic,63,120,brown,blonde,1288373,endangeredRunaway,"Feb 7, 2017 12:00:00 AM",HONESDALE,Wayne,PA
+DOMINIQUE CHRISHOLM,15,female,hispanic,62,129,brown,brown,1297725,endangeredRunaway,"Feb 23, 2017 12:00:00 AM",LAKE ARIEL,Wayne,PA
+KYLA CLINE,15,female,white,64,109,brown,brown,1273660,endangeredRunaway,"Jul 29, 2016 12:00:00 AM",FEASTERVILLE TREVOSE,Bucks,PA
+TARAZIA COLTRAINE,16,male,black,72,160,brown,black,1307061,endangeredRunaway,"Sep 2, 2017 12:00:00 AM",WOMELSDORF,Berks,PA
+JON DABKOWSKI,46,male,white,58,72,brown,brown,600906,endangeredMissing,"Jan 14, 1982 12:00:00 AM",TARENTUM,Allegheny,PA
+KYJUAN ROBERTS,16,male,black,64,140,black,brown,1290298,familyAbduct,"Dec 9, 2016 12:00:00 AM",ERIE,Erie County,PA
+NAYELI DIAZ,15,female,hispanic,64,120,brown,brown,1303405,endangeredRunaway,"Jul 17, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+JOHN DOE1957,-1,male,white,39,30,unknown,brown,1231830,unidentified,"Feb 25, 1957 12:00:00 AM",PHILADELPHIA,,PA
+JANE DOE1973,-1,female,white,65,0,unknown,brown,1184545,unidentified,"Oct 10, 1973 12:00:00 AM",FORT INDIANTOWN GAP,Lebanon,PA
+JANE DOE1976,-1,female,white,59,140,brown,brown,1104191,unidentified,"Dec 20, 1976 12:00:00 AM",WHITE HAVEN,Carbon,PA
+JANE DOE1979,-1,female,white,63,0,unknown,blonde,1192091,unidentified,"Jun 20, 1979 12:00:00 AM",WATTS TOWNSHIP,Perry,PA
+JANE DOE1988,-1,female,white,60,100,unknown,unknown,1104714,unidentified,"Jan 24, 1988 12:00:00 AM",BENSALEM,,PA
+JOHN DOE1989,-1,male,black,69,139,brown,black,1184584,unidentified,"Feb 3, 1989 12:00:00 AM",PHILADELPHIA,,PA
+JANE DOE1990,-1,female,white,58,0,,brown,1107383,unidentified,"Jul 22, 1990 12:00:00 AM",MONROE TOWNSHIP,Clarion,PA
+JOHN DOE1995,-1,male,black,71,163,brown,black,1184254,unidentified,"Oct 27, 1995 12:00:00 AM",PHILADELPHIA,,PA
+JANE DOE2012,-1,female,black,63,0,unknown,unknown,1212370,unidentified,"Jul 30, 2012 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+QUAMERE DOTSON,17,male,black,67,180,brown,brown,1298087,endangeredRunaway,"May 24, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+DENISE DYSON,18,female,black,67,125,brown,brown,1296968,endangeredRunaway,"May 12, 2017 12:00:00 AM",TOBYHANNA,Monroe,PA
+WENDY EATON,58,female,white,58,90,brown,brown,601124,nonFamilyAbduct,"May 17, 1975 12:00:00 AM",MEDIA,Dauphin,PA
+COREY EDKIN,33,male,white,36,30,blue,blonde,601130,nonFamilyAbduct,"Oct 12, 1986 12:00:00 AM",NEW COLUMBIA,Union,PA
+ROBERT EHNERD,18,male,white,73,175,brown,brown,1254049,endangeredRunaway,"Sep 1, 2015 12:00:00 AM",NORTH VERSAILLES,Allegheny,PA
+SHAKYA EL,16,female,black,66,105,brown,black,1271330,endangeredRunaway,"May 19, 2016 12:00:00 AM",WILLIAMSPORT,Lycoming,PA
+BRYAN FISHER,51,male,white,69,180,hazel,brown,912546,endangeredMissing,"Feb 21, 1983 12:00:00 AM",ERIE,Erie,PA
+KIONNA FORD,17,female,biracial,63,181,brown,brown,1300506,endangeredRunaway,"Jun 19, 2017 12:00:00 AM",MCKEESPORT,Allegheny,PA
+INISHA FOWLER,18,female,black,45,48,brown,black,1272129,endangeredMissing,"Sep 11, 2006 12:00:00 AM",PITTSBURGH,Allegheny,PA
+INISHA FOWLER,18,female,black,45,48,brown,black,1272129,endangeredMissing,"Sep 11, 2006 12:00:00 AM",PITTSBURGH,Allegheny,PA
+IAN FRYE,16,male,white,66,150,blue,ltBrown,1305376,endangeredRunaway,"Aug 13, 2017 12:00:00 AM",ROCHESTER,Beaver,PA
+RAIMOND GONZALEZ,19,male,hispanic,68,150,brown,black,1223493,endangeredRunaway,"Sep 28, 2013 12:00:00 AM",YORK,York,PA
+CHRISTINE GREEN,48,female,black,60,90,brown,black,601571,endangeredMissing,"Apr 23, 1985 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+RANEE GREGOR,55,female,white,65,120,green,blonde,972250,endangeredMissing,"Oct 21, 1977 12:00:00 AM",ROBINSON TOWNSHIP,Allegheny,PA
+CHELSY GRIFFIN,16,female,white,64,150,brown,brown,1301390,endangeredRunaway,"Jul 1, 2017 12:00:00 AM",BRYN MAWR,Delaware,PA
+SANDRA HOPLER,62,female,white,64,125,hazel,ltBrown,1149438,missing,"Sep 29, 1973 12:00:00 AM",LA PLUME,Lackawanna,PA
+CHERYL ANN IACOVONE,57,female,white,68,120,green,blonde,603887,nonFamilyAbduct,"Jul 12, 1977 12:00:00 AM",SECANE,,PA
+LAUREN JACKSON,33,female,white,30,34,brown,brown,601776,endangeredMissing,"Oct 4, 1988 12:00:00 AM",SPRING CITY,Chester,PA
+IJANAE JAMES-WYNNE,17,female,black,66,200,brown,brown,1297499,endangeredRunaway,"May 19, 2017 12:00:00 AM",TOBYHANNA,Monroe,PA
+DAMONT JOHNSON,16,male,biracial,71,161,brown,black,1298735,endangeredRunaway,"Jun 1, 2017 12:00:00 AM",BUTLER,,PA
+YASIN JOHNSON,16,male,biracial,72,150,brown,brown,1297321,endangeredRunaway,"May 14, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+SABRINA KAHLER,35,female,white,62,131,blue,blonde,1120438,Section 5779,"Jun 24, 2002 12:00:00 AM",ERIE,Erie,PA
+ALIVIA KAIL,25,female,white,60,105,green,brown,1208482,missing,"Mar 4, 2011 12:00:00 AM",WEST MIFFLIN,Allegheny,PA
+BACHIR KANNAH,15,male,black,64,110,brown,black,1293322,endangeredRunaway,"Apr 4, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+ROBERT KECK,54,male,white,67,140,hazel,blonde,601783,nonFamilyAbduct,"Jun 30, 1979 12:00:00 AM",COOPERSBURG,,PA
+TRACY KING,56,female,white,63,110,blue,red,701787,nonFamilyAbduct,"Jul 8, 1975 12:00:00 AM",GETTYSBURG,Adams,PA
+TRACY KROH,45,female,white,58,82,green,brown,730293,endangeredMissing,"Aug 5, 1989 12:00:00 AM",MILLERSBURG,Dauphin,PA
+MICHELLE LAKEY,42,female,white,57,80,brown,brown,601792,nonFamilyAbduct,"Aug 26, 1986 12:00:00 AM",SCRANTON,,PA
+JNAIHA LAMBOY,15,female,hispanic,67,190,brown,brown,1290705,endangeredRunaway,"Mar 3, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+SHANKEEKA LANE,17,female,black,60,127,brown,black,1302873,endangeredRunaway,"Jul 16, 2017 12:00:00 AM",LANCASTER,Lancaster,PA
+JOHN LANGO,47,male,white,73,185,blue,red,601795,endangeredMissing,"Jan 1, 1988 12:00:00 AM",POTTSVILLE,Schuylkill,PA
+EVELIN LEMUS,18,female,hispanic,64,110,brown,black,1247869,endangeredRunaway,"Sep 17, 2014 12:00:00 AM",BERWICK,Columbia,PA
+TANIYAH LOCKETT,6,female,black,47,45,brown,black,1300565,familyAbduct,"Jun 1, 2017 12:00:00 AM",ERIE,Erie,PA
+TANIYAH LOCKETT,6,female,black,47,45,brown,black,1300565,familyAbduct,"Jun 1, 2017 12:00:00 AM",ERIE,Erie,PA
+JANAYA LOPEZ,15,female,hispanic,62,135,,brown,1277490,endangeredRunaway,"Sep 25, 2016 12:00:00 AM",LEWISTOWN,Mifflin,PA
+LOUIS MACKERLEY,40,male,white,48,44,blue,blonde,601804,endangeredMissing,"Jun 7, 1984 12:00:00 AM",ALLENTOWN,Lehigh,PA
+CHERRIE MAHAN,41,female,white,50,68,hazel,brown,601805,nonFamilyAbduct,"Feb 22, 1985 12:00:00 AM",PITTSBURGH,Allegheny,PA
+WILLIAM MAJEWSKI,34,male,white,49,50,blue,sandy,761273,nonFamilyAbduct,"Nov 9, 1991 12:00:00 AM",MC KEES ROCKS,,PA
+DANIEL MARGARITO,17,male,hispanic,66,134,brown,black,1304491,endangeredRunaway,"Jun 27, 2017 12:00:00 AM",LATROBE,Westmoreland,PA
+ALICIA MARKOVICH,45,female,white,62,120,blue,brown,601810,endangeredMissing,"Apr 26, 1987 12:00:00 AM",BLAIRSVILLE,,PA
+VERONICA MARQUEZ,16,female,hispanic,63,100,brown,brown,1299292,endangeredRunaway,"Jun 8, 2017 12:00:00 AM",READING,Berks County,PA
+JAMES MCCLENDON,12,male,black,62,110,brown,black,1307393,endangeredRunaway,"Sep 5, 2017 12:00:00 AM",PITTSBURGH,Allegheny,PA
+MICHAEL MCCOOL,53,male,white,60,100,blue,brown,769480,endangeredMissing,"Jun 28, 1978 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+TANIYAH LOCKETT,6,female,black,47,45,brown,black,1300565,familyAbduct,"Jun 1, 2017 12:00:00 AM",ERIE,Erie,PA
+MICHAEL MCINTYRE,16,male,white,68,160,brown,brown,1296289,endangeredRunaway,"May 8, 2017 12:00:00 AM",PITTSBURGH,Allegheny,PA
+TONI MCNATT-CHIAPPETTA,50,female,white,62,105,hazel,blonde,603360,endangeredMissing,"Nov 5, 1981 12:00:00 AM",CLAIRTON,Allegheny,PA
+ASHLEY MENDEZ,17,female,hispanic,63,125,brown,brown,1294816,endangeredRunaway,"Apr 12, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+MEYLIN MENDEZ ERAZO,15,female,hispanic,63,130,brown,brown,1266306,endangeredRunaway,"Apr 10, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+KIELLE MEREDITH,17,female,black,64,150,brown,black,1288767,endangeredRunaway,"Dec 16, 2016 12:00:00 AM",MCKEESPORT,Allegheny,PA
+STEFANIE MILLS,31,female,black,66,110,brown,black,950909,endangeredRunaway,"Mar 7, 2002 12:00:00 AM",PITTSBURGH,Allegheny,PA
+GABRIEL MINARCIN,45,male,white,48,60,brown,brown,603366,endangeredMissing,"Jan 14, 1982 12:00:00 AM",TARENTUM,Allegheny,PA
+KEENEN MOORE,15,male,black,72,200,brown,black,1305567,endangeredRunaway,"Jul 18, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+JEROME MORRIS,41,male,black,61,80,brown,black,1117824,endangeredRunaway,"Aug 1, 1990 12:00:00 AM",PITTSBURGH,Allegheny,PA
+LUCAS NOEL,14,male,white,66,125,blue,blonde,1308589,endangeredRunaway,"Sep 17, 2017 12:00:00 AM",WARMINSTER,Bucks,PA
+AARYS OBERLANDER-HOWER,21,male,white,57,65,brown,ltBrown,1074204,familyAbduct,"Nov 6, 2006 12:00:00 AM",TITUSVILLE,Crawford,PA
+MONTAE ORTIZ,17,female,biracial,61,190,brown,black,1307691,endangeredRunaway,"Sep 7, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+DIAMTLIZ PADILLA,17,female,hispanic,56,112,brown,black,1288624,endangeredRunaway,"Jan 11, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+EDMARIE PADILLA BAEZ,18,female,hispanic,65,150,brown,black,1283003,endangeredRunaway,"Oct 4, 2016 12:00:00 AM",BUTLER,Butler,PA
+GEOVANY PENA,15,male,black,68,180,brown,brown,1306659,endangeredRunaway,"Jun 1, 2017 12:00:00 AM",YORK,York,PA
+PRINCESS PEREZ,23,female,whiteHisp,25,25,brown,brown,860028,endangeredMissing,"Jun 15, 1996 12:00:00 AM",BRONX,,NY
+MOESHA PIERCE,18,female,biracial,65,123,brown,brown,1262895,endangeredRunaway,"Nov 20, 2015 12:00:00 AM",CAMP HILL,Cumberland County,PA
+TAMARA PORRIN,45,female,white,60,130,brown,brown,1150268,endangeredMissing,"Nov 21, 1986 12:00:00 AM",DUBOIS,Clearfield,PA
+SHADE PREZZIE,14,male,black,64,140,brown,brown,1301188,endangeredRunaway,"Jun 22, 2017 12:00:00 AM",MCKEESPORT,Allegheny,PA
+ERIC PYLES,29,male,white,56,95,brown,ltBrown,901394,endangeredMissing,"Dec 12, 2000 12:00:00 AM",JONESTOWN,Lebanon,PA
+JESSICA REHRER,17,female,biracial,67,190,brown,black,1303850,endangeredRunaway,"Jul 27, 2017 12:00:00 AM",HARRISBURG,Dauphin,PA
+MICHELE REIDENBACH,52,female,white,62,110,blue,brown,601875,nonFamilyAbduct,"Sep 22, 1981 12:00:00 AM",ZELIENOPLE,,PA
+HECTOR REYNOSA,27,male,hispanic,66,160,brown,brown,1200600,endangeredRunaway,"Jan 9, 2006 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+TERESA RHODES,55,female,white,64,120,hazel,brown,1173371,endangeredRunaway,"Sep 27, 1975 12:00:00 AM",GREENSBURG,Westmoreland,PA
+IMEAR RINGGOLD-CLAY,13,male,black,65,110,brown,black,1305115,endangeredRunaway,"Aug 10, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+KATELYN RIVERA-HELTON,19,female,white,30,23,brown,blonde,868705,endangeredMissing,"Aug 10, 1999 12:00:00 AM",BOOTHWYN,Delaware,PA
+KYJUAN ROBERTS,16,male,black,64,140,black,brown,1290298,familyAbduct,"Dec 9, 2016 12:00:00 AM",ERIE,Erie County,PA
+JENNY RODRIGUEZ,17,male,hispanic,66,130,brown,brown,1303742,endangeredRunaway,"Jun 16, 2017 12:00:00 AM",MEADVILLE,Crawford,PA
+DAVID ROMAN,18,male,biracial,70,125,brown,black,1260844,endangeredRunaway,"Jan 1, 2016 12:00:00 AM",JOHNSTOWN,Cambria,PA
+ELLISYA SANTOSO,13,female,asian,36,50,brown,black,1132707,familyAbduct,"Nov 30, 2008 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+ELYAS SAYED,8,male,biracial,40,32,brown,brown,1225811,familyAbduct,"Nov 24, 2013 12:00:00 AM",WILLIAMSPORT,Lycoming,PA
+ELYAS SAYED,8,male,biracial,40,32,brown,brown,1225811,familyAbduct,"Nov 24, 2013 12:00:00 AM",WILLIAMSPORT,Lycoming,PA
+ELYAS SAYED,8,male,biracial,40,32,brown,brown,1225811,familyAbduct,"Nov 24, 2013 12:00:00 AM",WILLIAMSPORT,Lycoming,PA
+NYKEAH SCHOOLFIELD,16,female,black,64,185,brown,brown,1305780,endangeredRunaway,"Aug 14, 2017 12:00:00 AM",PITTSBURGH,Allegheny,PA
+PATRICIA SEELBAUGH,61,female,white,60,98,hazel,black,1149545,endangeredMissing,"Oct 26, 1973 12:00:00 AM",GROVE CITY,Mercer,PA
+BEVERLY SHARPMAN,86,female,white,63,135,brown,brown,1148707,endangeredMissing,"Sep 11, 1947 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+KATHLEEN SHEA,58,female,white,47,47,blue,brown,601900,nonFamilyAbduct,"Mar 18, 1965 12:00:00 AM",TYRONE,,PA
+BROOKELYNN SHIFFLER,15,female,white,66,140,blue,blonde,1295871,endangeredRunaway,"May 2, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+DESIRE SIMMONS,15,female,black,66,115,brown,brown,1296447,endangeredRunaway,"Apr 9, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+NICHAY TAYLOR-MOORE,16,female,black,60,155,black,black,1277614,endangeredRunaway,"Jun 23, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+JEROME THOMPSON,16,male,black,67,170,brown,brown,1288761,endangeredRunaway,"Feb 11, 2017 12:00:00 AM",ERIE,Erie,PA
+LAURA THOMPSON,40,female,white,66,140,blue,red,777676,endangeredRunaway,"Jan 7, 1993 12:00:00 AM",NEW CASTLE,Lawrence,PA
+EDNA THORNE,57,female,white,61,105,brown,brown,604667,nonFamilyAbduct,"Jun 24, 1975 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+JAMIE THORNTON,32,male,white,38,30,brown,ltBrown,604669,endangeredMissing,"Oct 4, 1986 12:00:00 AM",PITTSBURGH,Allegheny,PA
+LEONA TONEY,16,female,biracial,63,150,hazel,brown,1306104,endangeredRunaway,"Aug 19, 2017 12:00:00 AM",GREENSBURG,Westmoreland,PA
+ANTHONY TUMOLO,65,male,white,62,110,brown,black,1005677,endangeredMissing,"Oct 15, 1966 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+ALIYAH TURAY,17,female,black,63,182,brown,brown,1292494,endangeredRunaway,"Nov 29, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+KE'SHAUN VANDERHORST,24,male,black,24,29,brown,black,810190,nonFamilyAbduct,"Sep 25, 1995 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+ASIA VELEZ,16,female,biracial,65,195,brown,brown,1274204,endangeredRunaway,"Jul 11, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+DAYSHA WARNER,18,female,black,63,150,brown,black,1265180,endangeredRunaway,"Mar 17, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+DYLAN WEATHERWALK,17,male,white,68,140,brown,brown,1305935,endangeredRunaway,"Aug 20, 2017 12:00:00 AM",GALLITZIN,Cambria,PA
+MARJORIE WEST,84,female,white,36,50,blue,red,1176415,endangeredMissing,"May 8, 1938 12:00:00 AM",HAMILTON TOWNSHIP,McKean,PA
+MECCA WILEY,14,female,black,64,120,brown,brown,1274874,endangeredRunaway,"Aug 16, 2016 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+MARIAMU WILLIAM,16,female,black,61,127,brown,black,1305942,endangeredRunaway,"Aug 20, 2017 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+JAMESON WILLIS-CARROLL,18,female,white,66,120,blue,sandy,1263127,endangeredRunaway,"Nov 17, 2015 12:00:00 AM",PHILADELPHIA,Philadelphia,PA
+QUIJRI WILSON,17,male,biracial,69,120,brown,black,1304490,endangeredRunaway,"Jun 18, 2017 12:00:00 AM",BLAIRSVILLE,Indiana,PA
+OMAR WOOD,14,male,black,51,100,brown,brown,1291231,endangeredRunaway,"Mar 13, 2017 12:00:00 AM",DREXEL HILL,Delaware,PA
+TIONNA WRIGHT,17,female,black,62,140,brown,brown,1287481,endangeredRunaway,"Jan 13, 2017 12:00:00 AM",BALA CYNWYD,Wayne,PA

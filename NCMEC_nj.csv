@@ -1,0 +1,60 @@
+name,age,sex,ethnicity,height,weight,eye_color,hair_color,NCMEC_case#,case_type,missing_date,missing_city,missing_county,missing_state
+TENIKA ABREU,17,female,hispanic,70,200,brown,black,1307298,endangeredRunaway,"Sep 3, 2017 12:00:00 AM",MORRISTOWN,Morris,NJ
+SAAD AMMAL,14,male,black,68,115,brown,brown,1307036,endangeredRunaway,"Aug 31, 2017 12:00:00 AM",PATERSON,Passaic,NJ
+STEVEN ANDERSON,60,male,white,69,150,blue,brown,815026,endangeredMissing,"Apr 7, 1975 12:00:00 AM",NEW LISBON,Burlington,NJ
+AMAIA ARMSTEAD WILLIAMS,16,female,black,63,100,brown,black,1305625,endangeredRunaway,"Aug 11, 2017 12:00:00 AM",ELIZABETH,Union,NJ
+OFIR BEN-HAIM,8,female,white,24,25,brown,brown,1186183,familyAbduct,"Mar 25, 2010 12:00:00 AM",FAIR LAWN,Bergen,NJ
+ALLEN BRISCOE,47,male,black,68,140,brown,black,600428,nonFamilyAbduct,"Dec 13, 1985 12:00:00 AM",PHILADELPHIA,,PA
+KASHVI CHAWDA,11,female,asian,48,80,black,black,1213144,familyAbduct,"Mar 17, 2013 12:00:00 AM",EDISON,Middlesex,NJ
+KASHVI CHAWDA,11,female,asian,48,80,black,black,1213144,familyAbduct,"Mar 17, 2013 12:00:00 AM",EDISON,Middlesex,NJ
+JAN COTTA,63,female,white,64,118,blue,brown,1005685,missing,"Jun 26, 1973 12:00:00 AM",WALL TOWNSHIP,Monmouth,NJ
+ANA DEPAZ,16,female,hispanic,60,100,black,black,1276235,endangeredRunaway,"Jul 2, 2016 12:00:00 AM",PLAINFIELD,Union,NJ
+JANE DOE1971,-1,female,white,61,105,unknown,unknown,1122754,unidentified,"Dec 6, 1971 12:00:00 AM",GALLOWAY TOWNSHIP,,NJ
+JANE DOE1977,-1,female,black,67,125,unknown,black,1184303,unidentified,"Feb 28, 1977 12:00:00 AM",CRANBURY,,NJ
+JANE DOE1982,-1,female,white,62,100,unknown,brown,1102461,unidentified,"Jul 15, 1982 12:00:00 AM",BLAIRSTOWN,Warren,NJ
+JANE DOE1988,-1,female,white,61,100,unknown,unknown,1106794,unidentified,"Dec 10, 1988 12:00:00 AM",ATLANTIC HIGHLANDS,,NJ
+JANE DOE1991,-1,female,white,58,0,unknown,blonde,1184304,unidentified,"Oct 26, 1991 12:00:00 AM",KNOWLTON TOWNSHIP,,NJ
+JANE DOE2007,-1,female,black,62,118,unknown,black,1107268,unidentified,"Oct 18, 2007 12:00:00 AM",BAYONNE,,NJ
+ROBERT DORNBACH,29,male,white,68,150,brown,brown,1033801,endangeredRunaway,"Nov 27, 2005 12:00:00 AM",GLOUCESTER,Camden,NJ
+MAWA DOUMBIA,16,female,black,70,155,brown,brown,1291012,endangeredRunaway,"Oct 7, 2016 12:00:00 AM",NEWARK,Essex,NJ
+AMENA EL SAYED,15,female,white,36,40,brown,black,1036277,familyAbduct,"Jan 22, 2006 12:00:00 AM",SOUTH ORANGE,Essex,NJ
+MARGARET FOX,57,female,white,62,105,blue,brown,959832,endangeredMissing,"Jun 24, 1974 12:00:00 AM",BURLINGTON,Burlington,NJ
+AMANDA GARAS,12,female,asian,36,40,brown,black,1078904,familyAbduct,"Jun 2, 2007 12:00:00 AM",BAYONNE,Hudson,NJ
+NATHALIAH GARRICK,15,female,black,63,125,brown,black,1307656,endangeredRunaway,"Aug 29, 2017 12:00:00 AM",NEWARK,Essex,NJ
+TATIANA HANSEN,18,female,black,65,138,brown,brown,1300060,missing,"May 23, 2017 12:00:00 AM",TRENTON,Mercer,NJ
+JYRINE HARRIS,17,male,black,36,32,brown,brown,938318,endangeredMissing,"Jun 23, 2002 12:00:00 AM",IRVINGTON,Essex,NJ
+LORRAINE HERBSTER,55,female,white,64,125,green,brown,1158939,endangeredMissing,"Mar 9, 1979 12:00:00 AM",WESTAMPTON TOWNSHIP,Burlington,NJ
+MARK HIMEBAUGH,37,male,white,54,85,blue,red,762514,nonFamilyAbduct,"Nov 25, 1991 12:00:00 AM",DEL HAVEN,Cape May,NJ
+ALBERT JACOB,16,male,asian,58,75,brown,black,1135871,familyAbduct,"Dec 22, 2008 12:00:00 AM",PLAINSBORO,,NJ
+ALBERT JACOB,16,male,asian,58,75,brown,black,1135871,familyAbduct,"Dec 22, 2008 12:00:00 AM",PLAINSBORO,,NJ
+WILLIAM JONES,58,male,white,36,30,blue,ltBrown,1118401,endangeredMissing,"Dec 17, 1962 12:00:00 AM",VINELAND,Cumberland,NJ
+CHARLOTTE LOOMIS,59,female,white,62,115,blue,blonde,972345,endangeredMissing,"Sep 1, 1972 12:00:00 AM",EATONTOWN,Monmouth,NJ
+FRANCHESKA MARTINEZ,30,female,hispanic,55,120,brown,brown,888232,endangeredRunaway,"Jun 9, 2000 12:00:00 AM",PATERSON,Passaic,NJ
+MISHEILA MARTINEZ,30,female,hispanic,61,100,green,brown,917531,endangeredRunaway,"Jul 22, 2000 12:00:00 AM",PATERSON,Passaic,NJ
+CELINA MAYS,33,female,black,60,120,brown,black,827787,endangeredMissing,"Dec 16, 1996 12:00:00 AM",WILLINGBORO,Burlington,NJ
+SHYANNE MCCAY,15,female,white,62,152,green,blonde,1290546,endangeredRunaway,"Mar 4, 2017 12:00:00 AM",BRIDGEWATER,Somerset,NJ
+CURTIS MCCOY,29,male,black,20,25,brown,black,776157,nonFamilyAbduct,"Nov 18, 1989 12:00:00 AM",NEWARK,Essex,NJ
+MELISSA MCGUINN,30,female,white,28,16,blue,blonde,708328,nonFamilyAbduct,"Mar 6, 1988 12:00:00 AM",TRENTON,Mercer,NJ
+GABRIELLA MCSMITH,16,female,asian,62,120,brown,black,1258516,endangeredRunaway,"Oct 17, 2015 12:00:00 AM",PHILLIPSBURG,Warren,NJ
+JOSE MEDINA,37,male,whiteHisp,61,130,brown,black,862480,endangeredMissing,"Feb 19, 1995 12:00:00 AM",MOCA,,PR
+SINDY MENJIVAR-HERNANDEZ,14,female,hispanic,63,155,brown,black,1294705,endangeredRunaway,"Apr 15, 2017 12:00:00 AM",CAMDEN,Camden,NJ
+ANTHONY MINNELLA,18,male,hispanic,67,120,brown,brown,1264400,endangeredRunaway,"Mar 12, 2016 12:00:00 AM",EGG HARBOR CITY,Atlantic,NJ
+AMIRA MUBARAK,18,female,asian,24,30,brown,black,892162,familyAbduct,"Aug 5, 2000 12:00:00 AM",BAYONNE,Manhattan,NJ
+BRANDON NICHOLSON,16,male,white,63,160,brown,brown,1299540,endangeredRunaway,"Jun 8, 2017 12:00:00 AM",PATERSON,Passaic,NJ
+ANASTASIYA OVETSKY,35,female,white,63,140,hazel,blonde,867881,endangeredMissing,"Jul 19, 1999 12:00:00 AM",EAST BRUNSWICK,Middlesex,NJ
+PRINCESS PEREZ,23,female,whiteHisp,25,25,brown,brown,860028,endangeredMissing,"Jun 15, 1996 12:00:00 AM",BRONX,,NY
+DERYN PEREZ PEREZ,15,male,hispanic,51,135,brown,brown,1300108,endangeredRunaway,"Jun 15, 2017 12:00:00 AM",ELIZABETH,Union,NJ
+KENDY PINTO MEDINA,17,female,hispanic,59,125,brown,brown,1277609,endangeredRunaway,"Sep 24, 2016 12:00:00 AM",MORRISTOWN,Morris,NJ
+CHRISTINA QUIRE,17,female,black,62,149,brown,black,1303403,endangeredRunaway,"Jul 22, 2017 12:00:00 AM",PENNINGTON,Burlington,NJ
+DAMARIS RAMOS BARRERA,16,female,hispanic,58,110,black,black,1269467,endangeredRunaway,"Jun 1, 2016 12:00:00 AM",HAMILTON,Mercer,NJ
+HERBER ROBLES VILLEDA,20,male,hispanic,67,150,brown,black,1263603,endangeredRunaway,"Sep 18, 2013 12:00:00 AM",CAMDEN,Camden,NJ
+BONITA SANDERS,33,female,black,30,30,brown,black,601887,nonFamilyAbduct,"Sep 14, 1986 12:00:00 AM",ATLANTIC CITY,,NJ
+SARAH STERN,20,female,white,66,130,hazel,brown,1283282,missing,"Dec 2, 2016 12:00:00 AM",NEPTUNE,Monmouth,NJ
+SIERRA THOMAS,34,female,black,62,150,brown,black,1184616,missing,"Nov 21, 2002 12:00:00 AM",ATLANTIC CITY,Atlantic,NJ
+BRITNEY THOMPSON,17,female,black,64,150,brown,black,1238702,endangeredRunaway,"Jul 9, 2014 12:00:00 AM",EAST ORANGE,Essex,NJ
+ZIA-LEE TORRES,16,female,hispanic,62,130,brown,brown,1287358,endangeredRunaway,"Jan 23, 2017 12:00:00 AM",NORTH BERGEN,Hudson,NJ
+"SALEM COUNTY, NJ UNIDENTIFIED",55,male,white,68,0,,brown,64076526,unidentified,"Jun 2, 1979 12:00:00 AM",QUINTON TOWNSHIP,SALEM,NJ
+AARON WATKINS,28,male,white,66,140,blue,brown,1165516,missing,"Nov 11, 2007 12:00:00 AM",PLAINFIELD,Union,NJ
+DAVID WILLIAMS,54,male,black,61,113,brown,black,817398,endangeredMissing,"Apr 7, 1975 12:00:00 AM",NEW LISBON,Burlington,NJ
+VICTORIA WILLIAMS,17,female,black,66,133,brown,black,1224998,endangeredRunaway,"Oct 19, 2013 12:00:00 AM",NEWARK,Essex,NJ
+BRENDA YOOL-CALBBO,19,female,hispanic,60,135,brown,black,1260411,endangeredRunaway,"Nov 12, 2015 12:00:00 AM",CLIFFSIDE PARK,Bergen,NJ
