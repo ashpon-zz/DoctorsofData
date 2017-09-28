@@ -54,7 +54,3 @@ def NCMEC_parser(state):
             print("state {} page {} person {} complete".format(person_info['missingState'],i+1,ii+1))
                 
     df.to_csv("Resources/NCMEC_{}.csv".format(state), encoding="utf-8", index=False)
-
-for state in states:
-    NCMEC_parser(state)
-
