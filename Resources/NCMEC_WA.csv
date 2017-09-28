@@ -2,7 +2,7 @@ name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_
 DAVID ADAMS,57,male,white,1150788,endangeredMissing,1960,1968,ISSAQUAH,King,WA
 AGUEDA ARIAS,18,female,hispanic,925236,endangeredMissing,1998,2001,LONGVIEW,Cowlitz,WA
 VICTORIA AYRES,15,female,white,1308025,endangeredRunaway,2001,2017,CENTRALIA,Lewis,WA
-ANDRIA BAILEY,53,female,white,729834,endangeredMissing,1963,1979,SPANAWAY,,WA
+ANDRIA BAILEY,54,female,white,729834,endangeredMissing,1963,1979,SPANAWAY,,WA
 LINDSEY BAUM,19,female,white,1125977,endangeredMissing,1998,2009,MCCLEARY,Grays Harbor,WA
 DOUGLAS BECKER,41,male,biracial,1006803,endangeredRunaway,1976,1992,OAK HARBOR,Island,WA
 ANTHONY BEIRNES,49,male,white,1207300,endangeredMissing,1968,1986,ANACORTES,Skagit,WA
@@ -66,7 +66,6 @@ SKY METALWALA,8,male,white,1183128,endangeredMissing,2009,2011,BELLEVUE,King,WA
 JEANNETTE MILLER,64,female,white,1150582,endangeredMissing,1953,1970,ARLINGTON,Snohomish,WA
 ANTHONY MUNOZ,17,male,white,1305418,endangeredRunaway,2000,2017,PORT ORCHARD,Kitsap,WA
 SARAH NELSON,16,female,white,1296891,endangeredRunaway,2001,2017,KELSO,Cowlitz,WA
-FATIMA OROPEZA BAUTISTA,18,female,hispanic,1276826,endangeredRunaway,1999,2016,MATTAWA,Grant,WA
 ALEXIS OWENS,46,female,white,997240,endangeredMissing,1971,1987,PORT ORCHARD,King,WA
 CARLA OWENS,50,female,white,1038084,endangeredMissing,1967,1981,FORKS,Jefferson,WA
 LAURIE PARTRIDGE,60,female,white,603391,nonFamilyAbduct,1957,1974,SPOKANE,Spokane,WA
@@ -84,7 +83,6 @@ AMY SANTOS,16,female,hispanic,1308652,endangeredRunaway,2001,2017,YAKIMA,Yakima,
 MIGUEL SCOTT,25,male,asian,1188070,missing,1992,2011,BREMERTON,Kitsap,WA
 TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
 HANNAH TURKINGTON,16,female,hispanic,1307259,endangeredRunaway,2001,2017,VANCOUVER,Clark County,WA
-ANNIEKA VAUGHAN,15,female,white,1307395,endangeredRunaway,2002,2017,KENNEWICK,Benton,WA
 JZAHNAE VOGT,15,female,white,1299427,endangeredRunaway,2002,2017,SEATTLE,King,WA
 KRISTI VORAK,47,female,white,837648,endangeredMissing,1969,1982,TACOMA,Pierce,WA
 DARCI WARDE,43,female,white,855651,endangeredMissing,1973,1990,SEATTLE,King,WA

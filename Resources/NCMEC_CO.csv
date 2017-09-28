@@ -1,6 +1,5 @@
 name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
 CHRISTOPHER ABEYTA,31,male,white,600552,endangeredMissing,1985,1986,COLORADO SPRINGS,,CO
-HANNAH ADAMS,17,female,white,1307291,endangeredRunaway,1999,2017,EVANS,Weld,CO
 TIANNAH ANNIBAL,12,female,biracial,1213773,familyAbduct,2005,2013,LONGMONT,Boulder,CO
 HENNESZY ANTHONY,18,female,black,1292596,endangeredRunaway,1999,2017,DENVER,Adams,CO
 JUAN ARCHULETA,17,male,hispanic,1302682,endangeredRunaway,2000,2017,COLORADO SPRINGS,El Paso,CO
@@ -12,7 +11,6 @@ MARIE BLEE,53,female,white,1060777,endangeredMissing,1964,1979,CRAIG,Routt,CO
 ROBERT BOWLING,32,male,white,778686,endangeredMissing,1985,1985,PARKER,,CO
 AUSTIN BRYANT,21,male,white,1167616,endangeredMissing,1996,2001,MONUMENT,El Paso,CO
 AUSTIN BRYANT,21,male,white,1167616,endangeredMissing,1996,2001,MONUMENT,El Paso,CO
-CHANCE CALVERT,14,male,white,1307195,endangeredRunaway,2003,2017,AURORA,Adams,CO
 OSCAR CASTANEDA-GONZALEZ,18,male,hispanic,1291628,endangeredRunaway,1999,2017,FORT COLLINS,Larimer,CO
 BREANNA CHAMPLAIN,17,female,white,1264578,endangeredRunaway,1999,2016,DENVER,Adams,CO
 MADELYN CLARK,16,female,white,1308790,endangeredRunaway,2001,2017,LITTLETON,Jefferson,CO

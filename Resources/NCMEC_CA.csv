@@ -34,7 +34,7 @@ MADYSON BARBER,16,female,white,1304334,endangeredRunaway,2001,2017,WHITTIER,Los 
 TERESA BARBUSCA,34,female,white,864049,endangeredMissing,1982,1999,SACRAMENTO,Sacramento,CA
 IVAN BARELA,45,male,hispanic,1152805,endangeredMissing,1971,1986,SAN FRANCISCO,San Francisco,CA
 KARLA BARRERA,18,female,hispanic,1145681,familyAbduct,1999,2009,NORTH HILLS,Los Angeles,CA
-CHRISTINA BATTIN,28,female,white,981776,endangeredMissing,1988,2003,THOUSAND PALMS,Riverside,CA
+CHRISTINA BATTIN,29,female,white,981776,endangeredMissing,1988,2003,THOUSAND PALMS,Riverside,CA
 AUSTIN BEASLEY,19,male,white,1242509,endangeredRunaway,1998,2014,PITTSBURG,Contra Costa,CA
 SUSAN BENDER,46,female,white,600289,nonFamilyAbduct,1970,1986,MODESTO,Stanislaus,CA
 ASHLEY BERNAL,14,female,hispanic,1280006,endangeredRunaway,2003,2016,LOS ANGELES,Los Angeles,CA
@@ -74,6 +74,7 @@ DESTINY CARRILLO,17,female,hispanic,1247155,endangeredRunaway,2000,2015,PORTERVI
 DANIEL CARVER,36,male,white,828775,endangeredMissing,1981,1997,BLOOMINGTON,San Bernardino,CA
 ALINA CASEY TORRES,17,female,biracial,1272772,endangeredRunaway,2000,2016,FRESNO,Fresno,CA
 CONSUELLA CASH,50,female,black,1182870,endangeredMissing,1967,1975,LOS ANGELES,Los Angeles,CA
+CRYSTAL CASTELLANI,16,female,hispanic,1308175,endangeredRunaway,2000,2017,VAN NUYS,Los Angeles,CA
 ESTEFANI CASTRO,24,female,hispanic,1274753,endangeredRunaway,1993,2008,LOS ANGELES,Los Angeles,CA
 SANDRA CASTRO,16,female,hispanic,1307458,endangeredRunaway,2001,2017,LOS ANGELES,Los Angeles County,CA
 JOLIET CEDANO,11,female,biracial,1053317,familyAbduct,2006,2006,LAKE LOS ANGELES,Los Angeles,CA
@@ -100,7 +101,7 @@ SARA CORDOVA,16,female,hispanic,1286248,endangeredRunaway,2001,2017,VAN NUYS,Los
 JOSHUA CORRIGAN,7,male,hispanic,1234264,familyAbduct,2010,2014,POMONA,Los Angeles,CA
 ANDY CORTEZ,8,male,hispanic,1285586,familyAbduct,2008,2011,SAN FERNANDO,Los Angeles,CA
 ANDY CORTEZ,8,male,hispanic,1285586,familyAbduct,2008,2011,SAN FERNANDO,Los Angeles,CA
-TIFFANY CORTEZ,16,female,hispanic,1297155,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
+TIFFANY CORTEZ,17,female,hispanic,1297155,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
 TARA COSSEY,51,female,amInd,895143,endangeredMissing,1966,1979,SAN PABLO,Contra Costa,CA
 DAJONAE CRAWFORD LOVE,17,female,black,1304953,endangeredRunaway,1999,2017,LOS ANGELES,Los Angeles County,CA
 MISTY CROSS,33,female,white,0012326,endangeredMissing,1984,2000,SACRAMENTO COUNTY,SACRAMENTO COUNTY,CA
@@ -121,6 +122,7 @@ LEIGHANNE DENARDO,14,female,white,1307891,endangeredRunaway,2002,2017,CALIFORNIA
 HELENA DE NOGUEIRA FERRAO,6,female,biracial,1254179,familyAbduct,2010,2015,LONG BEACH,Los Angeles,CA
 HELENA DE NOGUEIRA FERRAO,6,female,biracial,1254179,familyAbduct,2010,2015,LONG BEACH,Los Angeles,CA
 ELIJAH DIAZ,22,male,amInd,1256535,,1995,2015,EL CAJON,San Diego,CA
+DARBI DILLON,17,female,white,1308171,endangeredRunaway,2000,2017,VAN NUYS,Los Angeles,CA
 ASHLEY DODGES,27,female,white,1224394,endangeredRunaway,1990,2007,BISHOP,Inyo,CA
 JANE DOE1969,-1,female,white,1184565,unidentified,,,,,
 JANE DOE1971,-1,female,unknown,1137966,unidentified,,,,,
@@ -472,7 +474,7 @@ KARLA RAMOS-MERINO,15,female,hispanic,1295794,endangeredRunaway,2001,2016,BLOOMI
 JAMARIO RAY,17,male,black,1258377,endangeredRunaway,1999,2015,NORTH HILLS,Los Angeles,CA
 DONNIS REDMAN,74,female,white,1075813,endangeredMissing,1943,1958,SAN PEDRO,Los Angeles,CA
 FAITH REY,17,female,hispanic,1307723,endangeredRunaway,2000,2017,VENTURA,Ventura County,CA
-MANUEL REYES,16,male,hispanic,1300714,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
+MANUEL REYES,17,male,hispanic,1300714,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
 JACINTO REYMUNDO,19,male,hispanic,1255084,endangeredRunaway,1998,2015,NORTH HILLS,Los Angeles,CA
 RODOLFO RICARDEZ,32,male,hispanic,1158702,endangeredRunaway,1984,1999,ANAHEIM,Orange,CA
 ALEXANDER RIFFENBURG,9,male,white,1240895,endangeredMissing,2007,2009,PALMDALE,Los Angeles,CA
@@ -492,7 +494,6 @@ ANTHONY RODRIGUEZ,15,male,hispanic,1297228,endangeredRunaway,2002,2017,LA VERNE,
 DENISE RODRIGUEZ,50,female,white,1160507,endangeredMissing,1966,1984,SAN FRANCISCO,,CA
 HENRY RODRIGUEZ,10,male,hispanic,1131079,familyAbduct,2007,2008,SANTA ANA,Orange,CA
 HENRY RODRIGUEZ,10,male,hispanic,1131079b,familyAbduct,2007,2008,SANTA ANA,,CA
-IRENE RODRIGUEZ,16,female,hispanic,1276882,endangeredRunaway,2000,2016,LOS ANGELES,Los Angeles,CA
 HENRY RODRIGUEZ,10,male,hispanic,1131079,familyAbduct,2007,2008,SANTA ANA,Orange,CA
 JULIET RODRIGUEZ,15,female,hispanic,1295251,endangeredRunaway,2002,2017,POMONA,Los Angeles County,CA
 KASSANDRA RODRIGUEZ,17,female,hispanic,1296585,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
@@ -502,6 +503,7 @@ HENRY RODRIGUEZ,10,male,hispanic,1131079b,familyAbduct,2007,2008,SANTA ANA,,CA
 ERINN ROGERS,25,female,hispanic,1061732,endangeredRunaway,1992,2007,MODESTO,Stanislaus,CA
 ADRIANA ROJAS,39,female,hispanic,834986,endangeredMissing,1978,1996,ROWLAND HEIGHTS,Los Angeles,CA
 ALDEBARAN ROMERO,17,female,hispanic,1281405,endangeredRunaway,1999,2016,LOS ANGELES,Los Angeles County,CA
+GIZELLE ROMERO,17,female,hispanic,1308760,endangeredRunaway,2000,2017,CANOGA PARK,Los Angeles,CA
 STEPHANIE ROMERO,18,female,hispanic,1274024,endangeredRunaway,1999,2016,LOS ANGELES,Los Angeles,CA
 ALMA ROOT,52,female,white,761400,endangeredMissing,1965,1980,AUBURN,Placer,CA
 KAYLA ROSA,15,female,hispanic,969363,endangeredMissing,2002,2002,SAN FRANCISCO,San Francisco,CA
@@ -516,7 +518,7 @@ ISABELLA SAILEANU,18,female,white,1053510,familyAbduct,1998,2001,MORGAN HILL,San
 ANA SALAZAR,17,female,hispanic,1306211,endangeredRunaway,2000,2017,LYNWOOD,Los Angeles,CA
 EMILY SANCHEZ,17,female,hispanic,1272150,endangeredRunaway,2000,2016,LOS ANGELES,Los Angeles,CA
 JENNIFER SANCHEZ,17,female,hispanic,1296439,endangeredRunaway,2000,2017,NORTH HILLS,Los Angeles,CA
-MELCHOR SANCHEZ,14,male,hispanic,1305772,endangeredRunaway,2002,2017,CORCORAN,Kings,CA
+MELCHOR SANCHEZ,15,male,hispanic,1305772,endangeredRunaway,2002,2017,CORCORAN,Kings,CA
 SALVADOR SANCHEZ CANTERO,15,male,hispanic,1306804,endangeredRunaway,2001,2017,SAN DIEGO,San Diego County,CA
 DEJANAE SANSON,17,female,black,1291398,endangeredRunaway,1999,2017,LOS ANGELES,Los Angeles County,CA
 SERGIO SANTIAGO,15,male,hispanic,1300690,endangeredRunaway,2002,2017,FRESNO,Fresno,CA
@@ -530,6 +532,7 @@ LULAIDA SEJALBO,61,female,pacific,1232639,endangeredMissing,1955,1973,SANTA CLAR
 EKATERINA SHCHERBAKOVA,32,female,white,849820,endangeredRunaway,1985,1998,MONTEREY,Monterey,CA
 SEAN SIDI,23,male,biracial,1218566,missing,1994,2013,SAN FRANCISCO,San Francisco,CA
 TANIYA SIMIEN,18,female,black,1257618,endangeredRunaway,1999,2015,NORTH HILLS,Los Angeles,CA
+ANTHONY SKINNER GARCIA,16,male,black,1308743,endangeredRunaway,2000,2017,LOS ANGELES,Los Angeles,CA
 KRISTIN SMART,40,female,white,1062418,missing,1977,1996,SAN LUIS OBISPO,San Luis Obispo,CA
 ABIGAIL SMITH,6,female,biracial,1248260,endangeredMissing,2011,2015,VICTORVILLE,San Bernardino,CA
 EZA SMITH,15,female,biracial,1290287,endangeredRunaway,2002,2016,SAN MARCOS,San Diego,CA

@@ -5,7 +5,6 @@ IVAN AGUILAR,18,male,hispanic,1232149,endangeredRunaway,1999,2014,TALLAHASSEE,Le
 SABRINA AISENBERG,20,female,white,840605,endangeredMissing,1997,1997,VALRICO,Hillsborough,FL
 ELLEN AKERS,51,female,white,1087299,endangeredMissing,1966,1981,ORMOND BEACH,Volusia,FL
 LINDSEY ALDEN,15,female,white,1308351,endangeredRunaway,2002,2017,LEHIGH ACRES,Lee,FL
-TYLER ALEMAN,16,male,white,1308284,endangeredRunaway,2001,2017,WEST PALM BEACH,Palm Beach County,FL
 ALEXIS ALFONSO,14,female,hispanic,1305139,endangeredRunaway,2003,2017,WEST PALM BEACH,Palm Beach County,FL
 TERESA ALFONSO,55,female,hispanic,801268,endangeredMissing,1961,1974,MARATHON,Monroe,FL
 PAUL ALLARD,55,male,white,600069,endangeredMissing,1962,1976,MIAMI,Miami-Dade,FL
@@ -26,7 +25,7 @@ LURLINE BERGERON,41,female,white,1147377,endangeredRunaway,1976,1991,WEST PALM B
 ZACHARY BERNHARDT,25,male,white,894757,endangeredMissing,1991,2000,CLEARWATER,Pinellas,FL
 AMY BILLIG,60,female,white,600311,nonFamilyAbduct,1957,1974,COCONUT GROVE,Miami-Dade,FL
 KAILA BOWLAND,17,female,white,1306639,endangeredRunaway,2000,2017,SAINT PETERSBURG,Pinellas County,FL
-RAYMOND BROADNAX,17,male,black,1272377,endangeredRunaway,1999,2016,MIAMI,Miami-Dade County,FL
+RAYMOND BROADNAX,18,male,black,1272377,endangeredRunaway,1999,2016,MIAMI,Miami-Dade County,FL
 BARRY BROWN,38,male,black,600459,endangeredMissing,1978,1985,PORT SAINT LUCIE,,FL
 BARRY BROWN,38,male,black,600459,endangeredMissing,1978,1985,PORT SAINT LUCIE,,FL
 DELANOS BROWN,16,male,black,1299898,endangeredRunaway,2001,2017,PALM BEACH GARDENS,Palm Beach County,FL
@@ -176,6 +175,7 @@ MAGGIE JIMENEZ,19,female,white,1263942,endangeredRunaway,1998,2016,ORLANDO,Orang
 ABEL JIMENEZ MORALES,15,male,hispanic,1273915,endangeredRunaway,2001,2016,LAKE WORTH,Palm Beach,FL
 JAMARION JOHNSON,14,male,black,1293269,endangeredRunaway,2003,2017,JACKSONVILLE,Duval County,FL
 D'ANGELO JONES,17,male,black,1306379,endangeredRunaway,1999,2017,MIAMI,Miami-Dade County,FL
+SHEKINAH JONES,16,female,black,1305232,endangeredRunaway,2001,2017,HOMESTEAD,Miami-Dade County,FL
 WATSON JONES,43,male,biracial,782620,endangeredMissing,1974,1991,ST. PETERSBURG,,FL
 REBECA JOSE,30,female,hispanic,1232509,endangeredRunaway,1987,2005,NAPLES,Collier,FL
 DANIEL JOSEPH,15,male,black,1302815,familyAbduct,2001,2017,MIRAMAR,Broward County,FL
@@ -237,11 +237,11 @@ EMILIA MORALES MORALES,18,female,hispanic,1283967,endangeredRunaway,1999,2016,NA
 DANIELA MORENO,9,female,hispanic,1271931,endangeredMissing,2007,2016,HIALEAH GARDENS,Miami-Dade,FL
 PORTESHA MORRIS,30,female,black,1212307,endangeredMissing,1987,2001,MONTICELLO,Jefferson,FL
 ARREANA MORSE,17,female,white,1306286,endangeredRunaway,2000,2017,JACKSONVILLE,Duval County,FL
+CHRISTOPHER MORSE,17,,white,1308376,endangeredRunaway,2000,2017,CLEARWATER,Pinellas,FL
 TODD'QUARION MOUZON,16,male,black,1303612,endangeredRunaway,2000,2017,NEW PORT RICHEY,Pasco County,FL
 MICHELLE MULCAHY,56,female,white,818340,endangeredMissing,1961,1979,FORT LAUDERDALE,,FL
 TONI-ANN MULLINGS,14,female,black,1307889,endangeredRunaway,2002,2017,MIAMI,Miami-Dade County,FL
 FANNY NARVAEZ,15,female,hispanic,1077288,familyAbduct,2002,2007,APOPKA,Orange,FL
-DESIREE NIEVES,17,female,white,1307904,endangeredRunaway,1999,2017,FORT LAUDERDALE,Broward County,FL
 SIMORALI NIEVES,16,female,white,1267440,endangeredRunaway,2001,2016,MIAMI,Miami-Dade County,FL
 CHASSIDY ODOM,-1,female,white,09-9016,missing,,,,,
 MARY OPITZ,53,female,white,768011,nonFamilyAbduct,1963,1981,FORT MYERS,Lee,FL
@@ -262,6 +262,7 @@ BRIANA PEREIRA,4,female,hispanic,1287687a,missing,2013,2017,HIALEAH,,FL
 ALEXANDER PEREZ,17,male,white,1308488,endangeredRunaway,2000,2017,MIAMI,Miami-Dade County,FL
 ALYSSA PEREZ,17,female,black,21309,endangeredRunaway,1999,2017,LEHIGH ACRES,Lee,FL
 NATANALIE PEREZ,24,female,biracial,1202267,missing,1992,2012,MIAMI,Miami-Dade,FL
+EXEL PEREZ-CHAVEZ,17,male,hispanic,1305563,endangeredRunaway,2000,2017,DAVIE,Broward,FL
 DEVORA PEREZ JUAREZ,16,female,hispanic,1302330,endangeredRunaway,2001,2017,HOMESTEAD,Miami-Dade,FL
 COLLEEN PERRIS,35,female,white,1068869,missing,1982,2000,PLANTATION,Broward,FL
 JENNIFER PERRY,37,female,white,783071,endangeredRunaway,1980,1993,MARATHON,Monroe,FL
@@ -345,7 +346,6 @@ ADRIAN VERBONCOEUR,16,male,white,1306983,endangeredRunaway,2001,2017,SARASOTA,Sa
 YAIR VILLATORRO,17,male,hispanic,1283353,endangeredRunaway,1999,2016,GIBSONTON,Hillsborough,FL
 TIFFANY WARRINGTON,16,female,white,1084573,familyAbduct,2001,2004,FLORAHOME,Putnam,FL
 DESTINY WELCH,17,female,white,1263538,endangeredRunaway,2000,2016,TAMPA,Hillsborough County,FL
-DAVID WEST,15,male,white,1307239,endangeredRunaway,2002,2017,WILDWOOD,Sumter County,FL
 CHESTER WETMORE,46,male,white,601937,endangeredMissing,1971,1986,BRADENTON,,FL
 MALYKA WILCOX,16,female,black,1295746,endangeredRunaway,2000,2017,PALM BEACH GARDENS,Palm Beach,FL
 KATELYNN WILKERSON,14,female,white,1306155,endangeredRunaway,2003,2017,JACKSONVILLE,Duval County,FL
