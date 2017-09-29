@@ -1074,7 +1074,7 @@ TONI-ANN MULLINGS,14,female,black,1307889,runaway,2002,2017,MIAMI,Miami-Dade Cou
 FANNY NARVAEZ,15,female,hispanic,1077288,abduct,2002,2007,APOPKA,Orange,Florida
 DESIREE NIEVES,17,female,white,1307904,runaway,1999,2017,FORT LAUDERDALE,Broward County,Florida
 SIMORALI NIEVES,16,female,white,1267440,runaway,2001,2016,MIAMI,Miami-Dade County,Florida
-CHASSIDY ODOM,N/A,female,white,Sep-16,missing,2001,2016,MIAMI,Miami-Dade County,Florida
+CHASSIDY ODOM,N/A,female,white,16-Sep,missing,2001,2016,MIAMI,Miami-Dade County,Florida
 MARY OPITZ,53,female,white,768011,abduct,1963,1981,FORT MYERS,Lee,Florida
 ANALI OROZCO-GOMEZ,19,female,hispanic,1245304,runaway,1998,2015,APOPKA,Orange,Florida
 BREANA ORTIZ,16,female,white,1302943,runaway,2001,2017,ST. PETERSBURG,Pinellas County,Florida
@@ -1547,7 +1547,7 @@ JOSE ORTEGA RODRIGUEZ,18,male,hispanic,1284297,runaway,1999,2016,ELIZABETHTOWN,H
 CITLALLI PEREZ-CORONEL,18,female,hispanic,1215551,runaway,1999,2012,LOUISVILLE,Jefferson,Kentucky
 LYDIA PERKINS,34,female,white,841272,missing,1982,1997,LEXINGTON,Fayette,Kentucky
 CARLIE RITTER,16,female,white,1303752,runaway,2001,2017,HOPE,Montgomery,Kentucky
-CHIPLEY SANDERS,46,male,white,781869,runaway,1971,1984,ASHLAND,,Kentucky
+CHIPLEY SANDERS,46,male,white,781869,runaway,1971,1984,ASHLAND,Montgomery,Kentucky
 SAMANTHA SANDS,18,female,white,1284866,runaway,1999,2016,ROCKHOLDS,Whitley,Kentucky
 JANELLE SANGER-GARZA,28,female,white,1241732,missing,1989,2009,MORGANFIELD,Union,Kentucky
 RODNEY SCOTT,17,male,white,1227565,runaway,2000,2014,BOWLING GREEN,Warren,Kentucky
@@ -1782,7 +1782,7 @@ TALAYA RIDDICK,14,female,black,1308517,runaway,2002,2016,BALTIMORE,Baltimore Cit
 JANAE' ROBINSON-MILLER,17,female,black,1291462,runaway,2000,2017,CAMP SPRINGS,Prince Georges,Maryland
 MARIA ROMERO,19,female,hispanic,145d03697,runaway,1998,2014,BALTIMORE,Baltimore City,Maryland
 ERCELY ROMERO SORIANO,18,female,hispanic,1252365,runaway,1999,2015,BEL AIR,Harford,Maryland
-ERCELY ROMERO-SORIANO,18,female,hispanic,2.015E+11,runaway,1999,2015,BEL AIR,Harford,Maryland
+ERCELY ROMERO-SORIANO,18,female,hispanic,2.02E+11,runaway,1999,2015,BEL AIR,Harford,Maryland
 SOLOMON ROSE,48,male,black,1156752,missing,1968,1972,BALTIMORE,Baltimore City,Maryland
 ANGIE RUIZ-FLORES,16,female,white,w170511576,runaway,2001,2017,WHEATON,Montgomery,Maryland
 ADAM SHANNON,20,male,white,919137,abduct,1997,2001,ROSEDALE,Baltimore,Maryland
@@ -2038,7 +2038,7 @@ SEANHEEM DAVIS,15,male,black,1295654,runaway,2002,2017,JACKSONVILLE,Onslow Count
 ASHA DEGREE,27,female,black,879788,missing,1990,2000,SHELBY,Cleveland,North Carolina
 RUBELSY ESCALANTE PEREZ,19,male,hispanic,1263158,runaway,1998,2016,SAINT PAULS,Robeson,North Carolina
 KELLY GASKINS,29,female,white,1244697,missing,1988,2007,CHOCOWINITY,Beaufort,North Carolina
-AMY GIBSON,42,female,white,785791,missing,1975,1990,GREENSBORO,,North Carolina
+AMY GIBSON,42,female,white,785791,missing,1975,1990,GREENSBORO,Guilford,North Carolina
 DIANA GONZALEZ,26,female,hispanic,1031024,abduct,1991,2005,RAEFORD,Hoke,North Carolina
 SARA GRAHAM,21,female,native american,1243889,missing,1996,2015,FAIRMONT,Robeson,North Carolina
 BRITNEY HAZELWOOD,17,female,white,1265531,runaway,2000,2016,LEXINGTON,Davidson County,North Carolina
@@ -2083,7 +2083,7 @@ DOMINIC WRIGHT,16,male,black,1308587,runaway,2001,2017,LOUISBURG,Franklin,North 
 DIANE MOON,62,female,white,1170870,abduct,1955,1962,CAMP LEJEUNE,Onslow,North Carolina
 LISSI ZUNIGA,16,female,hispanic,1304819,runaway,2001,2017,CHARLOTTE,Mecklenburg,North Carolina
 BARBARA COTTON,51,female,white,796102,missing,1965,1981,WILLISTON,Williams,North Dakota
-JOHN JACOBSON,26,male,white,826663,missing,1991,1996,BISMARCK,,North Dakota
+JOHN JACOBSON,26,male,white,826663,missing,1991,1996,BISMARCK,Burleigh County,North Dakota
 ISIAH JEANOTTE,17,male,native american,1297151,runaway,2000,2017,RALEIGH,Grant,North Dakota
 ALEXIS JONES,17,female,white,1305136,runaway,1999,2017,BISMARCK,Burleigh County,North Dakota
 REACHELLE SMITH,15,female,white,1044761,abduct,2002,2006,MINOT,Ward,North Dakota
@@ -2098,7 +2098,7 @@ KAY LANI FREEMONT,18,female,native american,1302895,missing,1999,2017,OMAHA,Doug
 ALEXANDRA BERNALGALLEGOS,12,female,hispanic,1129845,abduct,2005,2009,OMAHA,Douglas,Nebraska
 MELGIN GIRON ARGUIJO,17,male,hispanic,1294517,runaway,2000,2017,OMAHA,Douglas,Nebraska
 MACHAEL GOMEZ,14,female,native american,1302377,runaway,2002,2017,BOYS TOWN,Douglas,Nebraska
-JACKIE HAY,41,female,white,601673,abduct,1976,1981,SHAWNEE COUNTY,,Nebraska
+JACKIE HAY,41,female,white,601673,abduct,1976,1981,SHAWNEE,SHAWNEE COUNTY,Nebraska
 KE'ASIA HILL,15,female,black,1306994,runaway,2001,2017,OMAHA,Douglas,Nebraska
 MARGARET HOLST,58,female,white,1097329,missing,1958,1977,OMAHA,,Nebraska
 RAINA HORTON,17,female,white,1279259,runaway,2000,2016,OMAHA,Douglas,Nebraska
@@ -2122,13 +2122,13 @@ CINDY VALLE,21,female,hispanic,1179076,runaway,1996,2011,OMAHA,Douglas,Nebraska
 INICIA VELASQUEZ,18,female,white,1273343,runaway,1999,2016,LINCOLN,Lancaster,Nebraska
 NOAH WILLIAMS,18,male,biracial,1306190,,1999,2017,LINCOLN,Lancaster County,Nebraska
 ARMANDO ZUNIGA,17,male,hispanic,1287119,runaway,1999,2017,BOYS TOWN,Douglas County,Nebraska
-TAMMY BELANGER,41,female,white,600264,missing,1976,1984,EXETER,,New Hampshire
+TAMMY BELANGER,41,female,white,600264,missing,1976,1984,EXETER,Douglas County,New Hampshire
 RACHAEL GARDEN,52,female,white,665523,abduct,1964,1980,NEWTON,Cheshire,New Hampshire
-ELIZABETH LAMOTTE,50,female,white,1290148,missing,1967,1984,MANCHESTER,,New Hampshire
+ELIZABETH LAMOTTE,50,female,white,1290148,missing,1967,1984,MANCHESTER,Cheshire,New Hampshire
 SHIRLEY MCBRIDE,48,female,white,724663,missing,1969,1984,CONCORD,Merrimack,New Hampshire
 MELISSA MESSINA,17,female,white,1300440,runaway,1999,2017,MANCHESTER,Hillsborough County,New Hampshire
 MACKENZIE MORGAN,17,female,white,1292877,runaway,2000,2017,LACONIA,Belknap County,New Hampshire
-LAUREEN RAHN,51,female,white,601873,abduct,1966,1980,MANCHESTER,,New Hampshire
+LAUREEN RAHN,51,female,white,601873,abduct,1966,1980,MANCHESTER,Belknap County,New Hampshire
 BETHANY SINCLAIR,31,female,white,907421,missing,1985,2001,WEST CHESTERFIELD,Cheshire,New Hampshire
 CHARLES VOSSELER,34,male,white,601933,abduct,1982,1986,ROCHESTER,,New Hampshire
 CHARLES VOSSELER,34,male,white,601933,abduct,1982,1986,ROCHESTER,,New Hampshire
@@ -2141,7 +2141,6 @@ KASHVI CHAWDA,11,female,asian,1213144,abduct,2005,2013,EDISON,Middlesex,New Jers
 KASHVI CHAWDA,11,female,asian,1213144,abduct,2005,2013,EDISON,Middlesex,New Jersey
 JAN COTTA,63,female,white,1005685,missing,1954,1973,WALL TOWNSHIP,Monmouth,New Jersey
 ANA DEPAZ,16,female,hispanic,1276235,runaway,2001,2016,PLAINFIELD,Union,New Jersey
-JANE DOE2007,N/A,female,black,1107268,N/A,,,,,New Jersey
 ROBERT DORNBACH,29,male,white,1033801,runaway,1988,2005,GLOUCESTER,Camden,New Jersey
 MAWA DOUMBIA,16,female,black,1291012,runaway,2001,2016,NEWARK,Essex,New Jersey
 AMENA EL SAYED,15,female,white,1036277,abduct,2002,2006,SOUTH ORANGE,Essex,New Jersey
@@ -2151,8 +2150,8 @@ TATIANA HANSEN,18,female,black,1300060,missing,1999,2017,TRENTON,Mercer,New Jers
 JYRINE HARRIS,17,male,black,938318,missing,1999,2002,IRVINGTON,Essex,New Jersey
 LORRAINE HERBSTER,55,female,white,1158939,missing,1962,1979,WESTAMPTON TOWNSHIP,Burlington,New Jersey
 MARK HIMEBAUGH,37,male,white,762514,abduct,1980,1991,DEL HAVEN,Cape May,New Jersey
-ALBERT JACOB,16,male,asian,1135871,abduct,2000,2008,PLAINSBORO,,New Jersey
-ALBERT JACOB,16,male,asian,1135871,abduct,2000,2008,PLAINSBORO,,New Jersey
+ALBERT JACOB,16,male,asian,1135871,abduct,2000,2008,PLAINSBORO,Middlesex,New Jersey
+ALBERT JACOB,16,male,asian,1135871,abduct,2000,2008,PLAINSBORO,Middlesex,New Jersey
 WILLIAM JONES,58,male,white,1118401,missing,1959,1962,VINELAND,Cumberland,New Jersey
 CHARLOTTE LOOMIS,59,female,white,972345,missing,1958,1972,EATONTOWN,Monmouth,New Jersey
 FRANCHESKA MARTINEZ,30,female,hispanic,888232,runaway,1987,2000,PATERSON,Passaic,New Jersey
@@ -2162,19 +2161,19 @@ SHYANNE MCCAY,15,female,white,1290546,runaway,2002,2017,BRIDGEWATER,Somerset,New
 CURTIS MCCOY,29,male,black,776157,abduct,1987,1989,NEWARK,Essex,New Jersey
 MELISSA MCGUINN,30,female,white,708328,abduct,1987,1988,TRENTON,Mercer,New Jersey
 GABRIELLA MCSMITH,16,female,asian,1258516,runaway,2000,2015,PHILLIPSBURG,Warren,New Jersey
-JOSE MEDINA,37,male,hispanic,862480,missing,1979,1995,MOCA,,New Jersey
+JOSE MEDINA,37,male,hispanic,862480,missing,1979,1995,MOCA,Warren,New Jersey
 SINDY MENJIVAR-HERNANDEZ,14,female,hispanic,1294705,runaway,2003,2017,CAMDEN,Camden,New Jersey
 ANTHONY MINNELLA,18,male,hispanic,1264400,runaway,1999,2016,EGG HARBOR CITY,Atlantic,New Jersey
 AMIRA MUBARAK,18,female,asian,892162,abduct,1999,2000,BAYONNE,Manhattan,New Jersey
 BRANDON NICHOLSON,16,male,white,1299540,runaway,2001,2017,PATERSON,Passaic,New Jersey
 ANASTASIYA OVETSKY,35,female,white,867881,missing,1982,1999,EAST BRUNSWICK,Middlesex,New Jersey
-PRINCESS PEREZ,23,female,hispanic,860028,missing,1993,1996,BRONX,,New Jersey
+PRINCESS PEREZ,23,female,hispanic,860028,missing,1993,1996,BRONX,Union,New Jersey
 DERYN PEREZ PEREZ,15,male,hispanic,1300108,runaway,2002,2017,ELIZABETH,Union,New Jersey
 KENDY PINTO MEDINA,17,female,hispanic,1277609,runaway,2000,2016,MORRISTOWN,Morris,New Jersey
 CHRISTINA QUIRE,17,female,black,1303403,runaway,2000,2017,PENNINGTON,Burlington,New Jersey
 DAMARIS RAMOS BARRERA,16,female,hispanic,1269467,runaway,2001,2016,HAMILTON,Mercer,New Jersey
 HERBER ROBLES VILLEDA,20,male,hispanic,1263603,runaway,1997,2013,CAMDEN,Camden,New Jersey
-BONITA SANDERS,33,female,black,601887,abduct,1984,1986,ATLANTIC CITY,,New Jersey
+BONITA SANDERS,33,female,black,601887,abduct,1984,1986,ATLANTIC CITY,Atlantic,New Jersey
 SARAH STERN,20,female,white,1283282,missing,1997,2016,NEPTUNE,Monmouth,New Jersey
 SIERRA THOMAS,34,female,black,1184616,missing,1982,2002,ATLANTIC CITY,Atlantic,New Jersey
 BRITNEY THOMPSON,17,female,black,1238702,runaway,2000,2014,EAST ORANGE,Essex,New Jersey
@@ -2210,19 +2209,18 @@ JOEL RAMIREZ,15,male,hispanic,1307544,runaway,2002,2017,ALBUQUERQUE,Bernalillo,N
 TIFFANY REID,29,female,native american,990719,missing,1987,2004,SHIPROCK,San Juan,New Mexico
 CINDY RIVERA,24,female,hispanic,1219282,missing,1993,2012,LAS VEGAS,San Miguel,New Mexico
 KINGSTON RODRIGUEZ,6,male,hispanic,1300481,abduct,2011,2016,TAOS,Taos,New Mexico
-ROBERT ROMERO,24,male,hispanic,887928,missing,1993,2000,SANTA FE,,New Mexico
+ROBERT ROMERO,24,male,hispanic,887928,missing,1993,2000,SANTA FE,Taos,New Mexico
 ARIEL RUYBAL,17,female,hispanic,1251080,runaway,1999,2015,BELEN,Valencia,New Mexico
 CHARLOTTE SALYERS,16,female,white,1272176,runaway,2001,2016,RIO RANCHO,Sandoval,New Mexico
 BILLY SENA,49,male,hispanic,603133,abduct,1967,1979,ALBUQUERQUE,Bernalillo,New Mexico
 BILLY SENA,49,male,hispanic,603133,abduct,1967,1979,ALBUQUERQUE,Bernalillo,New Mexico
-NICHOLAS SMITH,38,male,white,760608,missing,1979,1991,LAS CRUCES,,New Mexico
+NICHOLAS SMITH,38,male,white,760608,missing,1979,1991,LAS CRUCES,Bernalillo,New Mexico
 CAROLINE TEAGUE,20,female,white,951425,abduct,1997,2002,ALAMOGORDO,Otero,New Mexico
 LEROY TORRES,16,male,hispanic,1299803,runaway,2000,2017,ALBUQUERQUE,Bernalillo,New Mexico
 VICTOR TREJO,45,male,hispanic,604701,missing,1972,1986,LAS CRUCES,Dona Ana,New Mexico
 ESTHER VALDEZ,50,female,hispanic,1086978,missing,1967,1984,CHAMA,Rio Arriba,New Mexico
 APRIL WILLIAMS,14,female,hispanic,1290539,runaway,2003,2017,BELEN,Valencia,New Mexico
 APRIL WILLIAMS,14,female,hispanic,1290539,runaway,2003,2017,BELEN,Valencia,New Mexico
- ,N/A,female,white,1114321,N/A,,,,,Nevada
 CHRISTIAN AMOS,16,male,black,1286948,runaway,2001,2017,LAS VEGAS,Clark County,Nevada
 SAMUEL BOEHLKE,19,male,white,1055859,missing,1998,2006,CRATER LAKE,Klamath,Nevada
 SIRENITY BRESSELSMITH,3,female,white,1277847,abduct,2014,2016,LAS VEGAS,Clark,Nevada
@@ -2248,7 +2246,7 @@ KERRY JOHNSON,52,female,white,784470,missing,1964,1982,RENO,Marion,Nevada
 LANDON LEAGUE,14,male,biracial,1099585,abduct,2003,2008,LAS VEGAS,Clark,Nevada
 HEATHER LEWIS,27,female,white,961042,missing,1989,2003,ELY,White Pine,Nevada
 SHERISE MAGEE,43,female,black,1140163,missing,1973,1975,LAS VEGAS,Clark,Nevada
-JENNIFER MARTIN,41,female,white,601816,abduct,1976,1987,RENO,,Nevada
+JENNIFER MARTIN,41,female,white,601816,abduct,1976,1987,RENO,Clark,Nevada
 ANGELA MARTINEZ,17,female,hispanic,1274445,runaway,2000,2016,LAS VEGAS,Clark,Nevada
 TAU JANAY MCDAVID,17,female,black,1296708,runaway,2000,2017,LAS VEGAS,Clark,Nevada
 NANCY MONTELONGO,13,female,hispanic,1300986,runaway,2003,2017,LAS VEGAS,Clark,Nevada
@@ -2265,12 +2263,12 @@ GABRIEL RAMIREZ,16,male,biracial,1289437,runaway,2001,2017,SUN VALLEY,Washoe,Nev
 KARLA RODRIGUEZ,24,female,hispanic,873982,missing,1992,1999,LAS VEGAS,Clark,Nevada
 JERIN ROMERO,16,male,hispanic,1284345,runaway,2001,2016,LAS VEGAS,Clark,Nevada
 JERIN ROMERO,16,male,hispanic,1304399,runaway,2001,2017,LAS VEGAS,Clark,Nevada
-ROBERT ROMERO,24,male,hispanic,887928,missing,1993,2000,SANTA FE,,Nevada
+ROBERT ROMERO,24,male,hispanic,887928,missing,1993,2000,SANTA FE,Clark,Nevada
 ANGELINA RUSSELL,16,female,biracial,1303654,abduct,2001,2017,WASHOE VALLEY,Washoe,Nevada
 ANGELINA RUSSELL,16,female,biracial,1303654,abduct,2001,2017,WASHOE VALLEY,Washoe,Nevada
 ANGELINA RUSSELL,16,female,biracial,1303654,abduct,2001,2017,WASHOE VALLEY,Washoe,Nevada
 ANGELINA RUSSELL,16,female,biracial,1303654,abduct,2001,2017,WASHOE VALLEY,Washoe,Nevada
-CARY SAYEGH,45,male,white,601891,abduct,1971,1978,LAS VEGAS,,Nevada
+CARY SAYEGH,45,male,white,601891,abduct,1971,1978,LAS VEGAS,Clark,Nevada
 SABLE SCHILDER,18,female,white,1282581,runaway,1999,2016,FALLON,Churchill,Nevada
 ALINA SETTLES,9,female,white,1237765,abduct,2008,2013,HENDERSON,Clark,Nevada
 DEMIA SIMMONS- HAMPTONIE,17,female,biracial,1303614,runaway,2000,2017,RENO,Washoe County,Nevada
@@ -2296,7 +2294,7 @@ TAYLOR BESS,15,female,white,21281,runaway,2002,2017,HORNELL,Steuben,New York
 BONITA BICKWIT,59,female,white,781647,missing,1958,1973,NARROWSBURG,Sullivan,New York
 TYDAIZA BRADLEY,17,female,black,1298325,runaway,2000,2016,HASTINGS ON HUDSON,Westchester,New York
 SANDRA BREED,69,female,white,1210678,missing,1948,1964,CHITTENANGO,Madison,New York
-ALLEN BRISCOE,47,male,black,600428,abduct,1969,1985,PHILADELPHIA,,New York
+ALLEN BRISCOE,47,male,black,600428,abduct,1969,1985,PHILADELPHIA,Madison,New York
 GABRIELLA BROAD,15,female,white,1306255,runaway,2002,2017,BINGHAMTON,Broome,New York
 IMANI BROWN,16,female,black,19334,runaway,2000,2016,BRONX,Bronx,New York
 ANDRE BRYANT,28,male,black,721896,abduct,1989,1989,BROOKLYN,Kings,New York
@@ -2305,8 +2303,8 @@ CHRISTOPHER CAROLAN,14,male,white,1299373,runaway,2003,2017,BINGHAMTON,Broome,Ne
 LONDON CARTER,4,female,black,21153,abduct,2012,2017,BUFFALO,Erie,New York
 SHILAH CARTER,16,female,black,1303234,runaway,2001,2017,PLEASANTVILLE,Westchester,New York
 JAVIER CASTILLO,16,male,hispanic,1278952,runaway,2000,2016,CENTRAL ISLIP,Suffolk,New York
-JOSEFFINN CEGLIA,14,male,white,1245355,missing,2003,2015,WELLSVILLE,,New York
-JOSEFFINN CEGLIA,14,male,white,1245355,missing,2003,2015,WELLSVILLE,,New York
+JOSEFFINN CEGLIA,14,male,white,1245355,missing,2003,2015,WELLSVILLE,New York,New York
+JOSEFFINN CEGLIA,14,male,white,1245355,missing,2003,2015,WELLSVILLE,New York,New York
 STEVEN CHAIT,66,male,white,1066634,missing,1951,1972,NEW YORK,New York,New York
 HEIDY CHAVEZ,17,female,hispanic,1274322,runaway,1999,2015,BROOKLYN,Kings,New York
 HEIDY CHAVEZ,17,female,hispanic,1274322,runaway,1999,2015,BROOKLYN,Kings,New York
@@ -2322,12 +2320,10 @@ CHRISTOPHER DANSBY,30,male,black,724088,abduct,1987,1989,NEW YORK,New York,New Y
 MICKAYLA DAVIS,16,female,white,1300600,runaway,2001,2017,CORNWALL,Orange,New York
 SELAH DAVIS,9,female,black,1091315,missing,2007,2008,BRONX,Bronx,New York
 TIFFANY DIXON,38,female,hispanic,760721,missing,1979,1991,BROOKLYN,Kings,New York
-JOHN GREECE DOE 1976,N/A,male,N/A,1245432,N/A,,,,,New York
-UNKNOWN DOE1987,N/A,N/A,black,1184325,N/A,,,,,New York
 JADEN DUNKLEY,15,male,white,1307639,runaway,2002,2017,CORNING,Steuben,New York
 CORNELIA ENRIGHT,66,female,white,18973,missing,1950,1969,SCHENECTADY,Schenectady,New York
 DAVID ESPERANCE,12,male,black,21357,runaway,2004,2017,SYOSSET,Nassau,New York
-SEAN EVANS,35,male,white,601206,abduct,1981,1984,WATERTOWN,,New York
+SEAN EVANS,35,male,white,601206,abduct,1981,1984,WATERTOWN,Nassau,New York
 SAYURY FLORES,13,female,hispanic,1305941,runaway,2004,2017,BRONX,Bronx,New York
 HELEN FLORES FLORES,18,female,hispanic,1284841,runaway,1999,2016,YONKERS,Westchester,New York
 JAYSON FRANCO,16,male,hispanic,1302329,runaway,2000,2017,YONKERS,Westchester,New York
@@ -2351,7 +2347,7 @@ JULIE GUTHRIE,46,female,white,777216,missing,1971,1977,KATONAH,Westchester,New Y
 JULIE GUTHRIE,46,female,white,777216,missing,1971,1977,KATONAH,Westchester,New York
 JORDAN HALL,37,male,white,8693,missing,1980,2001,BUFFALO,Erie,New York
 NATHANIEL HARRIS,17,male,biracial,1301701,runaway,2000,2017,BUFFALO,Erie County,New York
-JENNIFER HARSHMAN,18,female,white,18521,runaway,1999,2015,PORT JERVIS,,New York
+JENNIFER HARSHMAN,18,female,white,18521,runaway,1999,2015,PORT JERVIS,Erie County,New York
 YOUSSEF HASSAN,14,male,biracial,1157637,abduct,2003,2010,NEW YORK,New York,New York
 LEANNE HAUSBERG,33,female,biracial,861608,missing,1984,1999,BROOKLYN,Kings,New York
 JOSEPH HELT,48,male,white,1150362,missing,1969,1987,ELLENVILLE,Ulster,New York
@@ -2359,9 +2355,9 @@ DENIESE HIRAMAN,31,female,black,876542,missing,1985,1999,QUEENS,Queens,New York
 EQUILLA HODRICK,41,female,black,601724,abduct,1976,1985,BRONX,Bronx,New York
 DOMONIQUE HOLLEY-GRISHAM,24,male,black,1116693,runaway,1993,2009,ROCHESTER,Monroe,New York
 FREDERICK HOLMES,64,male,white,1129018,missing,1953,1955,GRAHAMSVILLE,Sullivan,New York
-MARIAH HOWE,22,female,black,16183,missing,1995,2012,ROCHESTER,,New York
+MARIAH HOWE,22,female,black,16183,missing,1995,2012,ROCHESTER,Monroe,New York
 JEREMIAH HUGER,36,male,black,601769,abduct,1980,1985,BRONX,Bronx,New York
-HOLLY HUGHES,43,female,white,601770,abduct,1974,1981,STATEN ISLAND,,New York
+HOLLY HUGHES,43,female,white,601770,abduct,1974,1981,STATEN ISLAND,Richmond,New York
 MAYELIN INOA,17,female,hispanic,1285405,runaway,2000,2016,BRONX,Bronx,New York
 NIKOS INSLEE,17,male,white,1278943,runaway,2000,2016,SYOSSET,Nassau,New York
 JUSTICE JACKSON,15,female,black,21403,runaway,2002,2017,SCHENECTADY,Schenectady,New York
@@ -2380,13 +2376,13 @@ SONIA LANDAVERDE,16,female,white,20576,runaway,2001,2017,BRENTWOOD,Suffolk,New Y
 AALIYAH LEGRAND,15,female,black,1306410,runaway,2001,2017,POUGHKEEPSIE,Dutchess,New York
 AIDAN LIN,8,male,asian,1216020,abduct,2008,2011,NEW YORK,New York,New York
 LUZ LOPEZ,13,female,hispanic,21398,runaway,2004,2017,HEMPSTEAD,Nassau,New York
-LUIS LOPEZ LUGO,29,male,hispanic,855408,missing,1988,1998,GUAYANILLA,,New York
+LUIS LOPEZ LUGO,29,male,hispanic,855408,missing,1988,1998,GUAYANILLA,Nassau,New York
 SUZANNE LYALL,39,female,white,986276,missing,1978,1998,ALBANY,Albany,New York
 ASHA MAGNANIMI,17,female,white,1299593,runaway,2000,2017,BUFFALO,Erie,New York
 SHANAYSIA MARTIN,16,female,black,1302756,runaway,2001,2016,BROOKLYN,Kings,New York
-SHANAYSIA MARTIN,16,female,black,20309,missing,2001,2016,BROOKLYN,,New York
+SHANAYSIA MARTIN,16,female,black,20309,missing,2001,2016,BROOKLYN,Kings,New York
 TAMMIE MCCORMICK,45,female,white,603748,missing,1972,1986,SARATOGA SPRINGS,Saratoga Springs,New York
-JOSE MEDINA,37,male,hispanic,862480,missing,1979,1995,MOCA,,New York
+JOSE MEDINA,37,male,hispanic,862480,missing,1979,1995,SARATOGA SPRINGS,Saratoga Springs,New York
 EROL MELENDEZ,17,male,hispanic,1284720,runaway,2000,2016,DOBBS FERRY,Westchester County,New York
 YULIA MELGARA,15,female,hispanic,21195,runaway,2001,2017,ALBANY,Albany,New York
 BRANDON MEMA,19,male,white,1005751,abduct,1998,2000,BROOKLYN,Kings,New York
@@ -2403,13 +2399,13 @@ NATALIE NIMRI,11,female,white,1158881,abduct,2006,2010,CAMILLUS,Onondaga,New Yor
 CIERA NIXON,17,female,black,1301498,runaway,2000,2017,SYOSSET,Nassau,New York
 ALEXANDER NOGUERA,8,male,hispanic,1199829,abduct,2009,2012,QUEENS,Jamaica,New York
 MAKAYLA OLMSTEAD,17,female,black,20829,runaway,2000,2017,CAMILLUS,Onondaga,New York
-TIFFANY ORTIZ,18,female,hispanic,17766,missing,1999,2014,ROOSEVELT,,New York
+TIFFANY ORTIZ,18,female,hispanic,17766,missing,1999,2014,ROOSEVELT,Nassau,New York
 NAUTICA OTT,16,female,black,1289172,runaway,2001,2017,ROCHESTER,Monroe,New York
 ALEYAH PARKER,15,female,black,1306992,runaway,2002,2017,SYOSSET,Nassau County,New York
-ETAN PATZ,44,male,white,603392,abduct,1972,1979,NEW YORK,,New York
+ETAN PATZ,44,male,white,603392,abduct,1972,1979,NEW YORK,New York,New York
 CESILIA PENA,55,female,hispanic,601859,abduct,1962,1976,NEW YORK,New York,New York
 ALICE PEREIRA,50,female,white,604013,missing,1966,1972,STATEN ISLAND,Richmond,New York
-PRINCESS PEREZ,23,female,hispanic,860028,missing,1993,1996,BRONX,,New York
+PRINCESS PEREZ,23,female,hispanic,860028,missing,1993,1996,BRONX,Bronx,New York
 HERIBERTO PEREZ-MEDRANO,18,male,white,20572,runaway,1999,2017,BAYPORT,Suffolk,New York
 DEMI PETERSON,17,female,black,1303437,runaway,2000,2017,SYOSSET,Nassau,New York
 JUSTIN PIECHOWICZ,14,male,white,1304666,runaway,2002,2017,SYOSSET,Nassau,New York
@@ -2426,7 +2422,7 @@ KATELYN RODRIGUEZ,16,female,N/A,21229,runaway,2000,2017,RIVERHEAD,Suffolk,New Yo
 PEDRO RODRIGUEZ PARADA,16,male,hispanic,1278556,runaway,2001,2016,HUNTINGTON STATION,Suffolk,New York
 QUA'MERE ROGERS,12,male,black,1145099,missing,2005,2008,SYRACUSE,Onondaga,New York
 CINDY ROWLES,48,female,white,776875,missing,1968,1986,KINGSTON,Ulster,New York
-BONITA SANDERS,33,female,black,601887,abduct,1984,1986,ATLANTIC CITY,,New York
+BONITA SANDERS,33,female,black,601887,abduct,1984,1986,ATLANTIC CITY,Nassau,New York
 MARLENE SANTANA,31,female,hispanic,601889,abduct,1985,1985,NEW YORK,New York,New York
 MONIQUE SANTIAGO,39,female,hispanic,741122,abduct,1978,1990,ALBANY,Albany,New York
 TIRREL SANTIAGO,29,male,black,1180750,missing,1988,2005,BROOKLYN,Kings,New York
@@ -2444,12 +2440,12 @@ ANGEL SOLER,16,male,white,21261,runaway,2001,2017,ROOSEVELT,Nassau,New York
 STEVEY SOMMERVILLE,42,male,black,1165370,runaway,1975,1990,BROOKLYN,Queens,New York
 LINDA ST. GERMAINE,57,female,white,1171686,missing,1960,1973,PLATTSBURGH,Clinton,New York
 AMANDA STOKES,17,female,black,1269436,runaway,2000,2016,MOUNT VERNON,Westchester,New York
-TONY STRAYHORN,16,male,hispanic,19077,missing,2000,2016,PLEASANTVILLE,,New York
+TONY STRAYHORN,16,male,hispanic,19077,missing,2000,2016,PLEASANTVILLE,Westchester,New York
 BRIAN SULLIVAN,29,male,white,1076583,missing,1987,2007,ROCHESTER,Monroe,New York
 ALEXIS SWORD,16,female,white,1306357,runaway,2001,2017,ROCHESTER,Monroe,New York
 RAEQUAN TARVER,16,male,black,1304858,runaway,2001,2017,CANAAN,Columbia,New York
 ARKADIY TASHMAN,29,male,white,1007600,runaway,1987,2005,STATEN ISLAND,Richmond,New York
-JUANA TAYLOR,16,female,hispanic,20289,missing,2001,2016,ROCHESTER,,New York
+JUANA TAYLOR,16,female,hispanic,20289,missing,2001,2016,ROCHESTER,Richmond,New York
 TANISHA TAYLOR,15,female,black,1304888,runaway,2002,2017,JAMAICA,Queens County,New York
 LAMYA TEAMS,16,female,black,1307704,runaway,2001,2017,HASTINGS-ON-HUDSON,Westchester,New York
 ESSENCE TERRERO,18,female,hispanic,1279958,runaway,1998,2016,HAWTHORNE,Westchester,New York
@@ -2459,7 +2455,7 @@ SHERYL TILLINGHAST,61,female,white,1156469,missing,1956,1973,WASSAIC,Dutchess,Ne
 EDMOND TILLMAN,26,male,black,1023109,runaway,1991,2005,BROOKLYN,Kings,New York
 MARIELA ROBLERO BRAVO,20,female,hispanic,1205883,runaway,1997,2012,BRENTWOOD,Suffolk,New York
 EMILY TOLLINCHI,16,female,hispanic,1292532,runaway,2001,2017,NEW YORK,New York,New York
-YIM TSUI,39,male,asian,8845,N/A,1978,1998,NEW HYDE PARK,,New York
+YIM TSUI,39,male,asian,8845,N/A,1978,1998,NEW HYDE PARK,New York,New York
 AUSTEN UGWECHES,14,male,biracial,15149,abduct,2002,2009,BROOKLYN,Kings,New York
 AUSTEN UGWECHES,14,male,biracial,15149,abduct,2002,2009,BROOKLYN,Kings,New York
 ITAYETZIN VASQUEZ,18,female,hispanic,11062016,runaway,1999,2016,PENN YAN,Yates,New York
@@ -2471,14 +2467,14 @@ MARY WESOLOWSKI,59,female,white,759895,missing,1958,1971,GLENS FALLS,Warren,New 
 TIFFANY WESTFORD,26,female,black,796293,abduct,1991,1993,AMITYVILLE,Suffolk,New York
 TANYA WHITTED,18,female,black,21348,runaway,1999,2017,SYOSSET,Nassau,New York
 KIMBALEE WILLIAMS,16,female,black,20230,runaway,2001,2016,BROOKLYN,Kings,New York
-SARA WOOD,36,female,white,782700,abduct,1981,1993,LITCHFIELD,,New York
+SARA WOOD,36,female,white,782700,abduct,1981,1993,LITCHFIELD,Herkimer,New York
 ZHI SHAN WU,16,female,asian,1305699,runaway,2001,2017,BROOKLYN,Kings,New York
 DIVINE YOUNG,16,male,black,1307669,runaway,2001,2017,ROCHESTER,Monroe,New York
 YOXY ZUNIGA ROMERO,16,male,hispanic,1284842,runaway,2001,2016,YONKERS,Westchester,New York
 ANDRE AINA,12,male,white,1156948,abduct,2004,2010,WILLOUGHBY HILLS,Lake,Ohio
-AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,,Ohio
-AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,,Ohio
-AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,,Ohio
+AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,Portage,Ohio
+AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,Portage,Ohio
+AMINA AL-JAILANI,21,female,biracial,1049997,abduct,1996,2006,KENT,Portage,Ohio
 ALMA ANDRADE,17,female,hispanic,1294784,runaway,2000,2017,COLUMBUS,Franklin County,Ohio
 OMAR AYOUB,12,male,white,4722421,abduct,2005,2008,SANDUSKY,Erie,Ohio
 ERICA BAKER,28,female,white,860119,missing,1989,1999,KETTERING,Montgomery,Ohio
@@ -2504,8 +2500,8 @@ DE'ZHANAE CAMP,18,female,black,1298433,runaway,1999,2017,DAYTON,Montgomery,Ohio
 SIERRA CANTWELL,14,female,white,1286280,runaway,2002,2017,MASSILLON,Stark County,Ohio
 CYNTHIA CARMACK,45,female,white,1149340,abduct,1971,1987,BATAVIA,Clermont,Ohio
 KAZON CARTER,18,male,black,1306261,runaway,1999,2017,COLUMBUS,Franklin,Ohio
-JASMINE COLLINS,26,female,black,758425,missing,1990,1991,AKRON,,Ohio
-JASMINE COLLINS,26,female,black,758425,missing,1990,1991,AKRON,,Ohio
+JASMINE COLLINS,26,female,black,758425,missing,1990,1991,AKRON,Summit,Ohio
+JASMINE COLLINS,26,female,black,758425,missing,1990,1991,AKRON,Summit,Ohio
 DIANASHA CULPEPPER-TANYHILL,14,female,black,1300835,runaway,2003,2017,COLUMBUS,Franklin County,Ohio
 KASHAWN CUMBERLANDER,15,male,black,1303489,runaway,2002,2017,COLUMBUS,Franklin County,Ohio
 BIANCA DAMANIK,14,female,biracial,1006490,abduct,2003,2005,WILLOUGHBY,Lake,Ohio
@@ -2513,7 +2509,6 @@ CHRISTIAN DAVIS,15,male,black,1304506,runaway,2001,2017,COLUMBUS,Franklin County
 EVELYN DAVIS,56,female,white,1167492,missing,1961,1979,EAST LIVERPOOL,Columbiana,Ohio
 HAILEE DAVIS,18,female,white,1290006,runaway,1999,2017,COLUMBUS,Franklin,Ohio
 MARIA DEL CARMEN-PEREZ,23,female,white,5705680,runaway,1994,2011,NORTH OLMSTEAD,Cuyahoga,Ohio
-JANE DOE2007,N/A,female,white,1102342,N/A,,,,,Ohio
 LA'SHYRA DOTSON,12,female,black,1290870,runaway,2005,2017,COLUMBUS,Franklin,Ohio
 ELIANNA DRAKE,17,female,white,1272861,runaway,2000,2016,LEBANON,Warren,Ohio
 ANNA DURFEE,16,female,biracial,1305375,runaway,2001,2017,CLEVELAND,Cuyahoga,Ohio
@@ -2587,7 +2582,7 @@ KIMBERLY RILEY,37,female,white,1077218,missing,1979,1998,LORAIN,Lorain,Ohio
 DAVONTAY ROBINSON,17,male,biracial,1276839,runaway,2000,2016,CINCINNATI,Hamilton County,Ohio
 ZAMYIA ROWE,18,female,black,1292363,runaway,1999,2017,COLUMBUS,Franklin County,Ohio
 ATHENA SANDY,15,female,white,7291893,runaway,2001,2015,COLUMBUS,Franklin,Ohio
-EMILY SAWYER,34,female,white,710203,missing,1983,1988,TOLEDO,,Ohio
+EMILY SAWYER,34,female,white,710203,missing,1983,1988,TOLEDO,Loukas,Ohio
 GRACE SCHALL,15,female,white,1294766,runaway,2002,2017,NORTH OLMSTED,Cuyahoga,Ohio
 GRACE SCHALL,15,female,white,1297774,runaway,2002,2017,NORTH OLMSTED,Cuyahoga,Ohio
 CAPRICE SCHLAGETER,17,female,white,1286181,runaway,2000,2016,ANDOVER,Ashtabula,Ohio
@@ -2615,9 +2610,9 @@ ANTONIO WOODS,17,male,black,1298407,runaway,2000,2017,CLEVELAND,Cuyahoga County,
 SHAUN ZIEGLER,17,male,black,1303652,runaway,2000,2017,CINCINNATI,Hamilton,Ohio
 FAWN ABELL,47,female,white,600008,missing,1969,1985,BETHANY,Bethany,Oklahoma
 FAWN ABELL,47,female,white,600008,missing,1969,1985,BETHANY,Bethany,Oklahoma
-SHARON BALDEAGLE,45,female,native american,600185,abduct,1972,1984,EAGLE BUTTE,,Oklahoma
-NICHOLAS BARCLAY,36,male,white,802112,missing,1980,1994,SAN ANTONIO,,Oklahoma
-AMBER BARKER,29,female,white,841456,missing,1987,1997,OKLAHOMA CITY,,Oklahoma
+SHARON BALDEAGLE,45,female,native american,600185,abduct,1972,1984,EAGLE BUTTE,Bethany,Oklahoma
+NICHOLAS BARCLAY,36,male,white,802112,missing,1980,1994,SAN ANTONIO,Bethany,Oklahoma
+AMBER BARKER,29,female,white,841456,missing,1987,1997,OKLAHOMA CITY,Oklahoma,Oklahoma
 LAURIA BIBLE,34,female,white,877676,missing,1983,1999,WELCH,Craig,Oklahoma
 HAILEY BLIEK,17,female,white,1303567,runaway,2000,2017,EUFAULA,McIntosh,Oklahoma
 ALEXIS BRIONES,14,female,hispanic,1277715,runaway,2003,2016,EDMOND,Oklahoma,Oklahoma
@@ -2628,12 +2623,12 @@ ISAIAH BRYANT,15,male,biracial,1287744,runaway,2002,2017,TULSA,Tulsa,Oklahoma
 ISAIAH BRYANT,15,male,biracial,1287744,runaway,2002,2017,TULSA,Tulsa,Oklahoma
 ANGELA BURNS,24,female,biracial,1125837,abduct,1992,1994,MIDWEST CITY,Oklahoma,Oklahoma
 COLT CLARK,21,male,white,1042577,missing,1996,2006,WEWOKA,Seminole,Oklahoma
-JOSEPHINE COGBURN,50,female,white,600777,abduct,1967,1983,NORMAN,,Oklahoma
-JOSEPHINE COGBURN,50,female,white,600777,abduct,1967,1983,NORMAN,,Oklahoma
+JOSEPHINE COGBURN,50,female,white,600777,abduct,1967,1983,NORMAN,Seminole,Oklahoma
+JOSEPHINE COGBURN,50,female,white,600777,abduct,1967,1983,NORMAN,Seminole,Oklahoma
 JOSHUA COLE,17,male,white,1300923,runaway,1999,2017,MOORE,Cleveland County,Oklahoma
 CHEYENNE COOMER,17,female,white,1305741,runaway,2000,2017,TULSA,Tulsa County,Oklahoma
 MONIQUE DANIELS,41,female,white,787775,missing,1976,1992,MOORE,Cleveland,Oklahoma
-LEE DAVIS,49,male,white,741655,missing,1968,1984,TULSA,,Oklahoma
+LEE DAVIS,49,male,white,741655,missing,1968,1984,TULSA,Cleveland,Oklahoma
 CRYSTAL DITTMEYER,33,female,white,819583,missing,1984,1996,OKLAHOMA CITY,Oklahoma County,Oklahoma
 LEE FORTNEY,15,male,native american,1299555,runaway,2002,2017,PAWHUSKA,Osage,Oklahoma
 ASHLEY FREEMAN,33,female,white,877671,missing,1983,1999,WELCH,Craig,Oklahoma
@@ -2643,8 +2638,8 @@ JESSICA GARCIA,15,female,hispanic,1307976,runaway,2002,2017,PURCELL,McClain,Okla
 ELEANOR GRIGSBY,17,female,biracial,1303448,runaway,2000,2017,OKLAHOMA CITY,Oklahoma,Oklahoma
 ORLANDO HAMBURGER,15,male,biracial,1308465,runaway,2002,2017,OKLAHOMA CITY,Oklahoma,Oklahoma
 JOSHUA HART,16,male,white,1281029,runaway,2001,2016,COWETA,Wagoner,Oklahoma
-KIRSTEN HATFIELD,28,female,white,832698,missing,1989,1997,MIDWEST CITY,,Oklahoma
-JACKIE HAY,41,female,white,601673,abduct,1976,1981,SHAWNEE COUNTY,,Oklahoma
+KIRSTEN HATFIELD,28,female,white,832698,missing,1989,1997,MIDWEST CITY,Wagoner,Oklahoma
+JACKIE HAY,41,female,white,601673,abduct,1976,1981,SHAWNEE COUNTY,Wagoner,Oklahoma
 CAIN HAYNES,16,male,native american,1291512,runaway,2001,2017,JENKS,Tulsa,Oklahoma
 ROYCE HENSON,39,male,biracial,1108281,missing,1977,1979,TULSA,Tulsa,Oklahoma
 KAITLYN HICKS,16,female,white,1279012,runaway,2001,2016,TULSA,Tulsa,Oklahoma
@@ -2688,14 +2683,14 @@ SAMUEL BOEHLKE,19,male,white,1055859,missing,1998,2006,CRATER LAKE,Klamath,Orego
 TARA BONCZEK,16,female,white,1301314,runaway,2001,2017,PORTLAND,Multnomah,Oregon
 JEREMY BRIGHT,45,male,white,600424,missing,1972,1986,MYRTLE POINT,Coos,Oregon
 NIKI BRITTEN,64,female,white,1165009,runaway,1953,1969,ALBANY,Linn,Oregon
-LARONDA BRONSON,53,female,black,997233,missing,1964,1982,PORTLAND,,Oregon
+LARONDA BRONSON,53,female,black,997233,missing,1964,1982,PORTLAND,Linn,Oregon
 MIKAYLA CHRONISTER,16,female,white,1286879,runaway,2000,2016,SALEM,Marion,Oregon
 TONI CLARK,45,female,black,737294,missing,1972,1990,OAKLAND,Alameda,Oregon
 ANNALYCIA CRUZ,23,female,hispanic,811930,missing,1993,1994,CHILOQUIN,Klamath,Oregon
 KRISTA DE LA ROSA,46,female,biracial,1141058,missing,1970,1990,PORTLAND,Multnomah,Oregon
 JESSICA DOWTY,16,female,white,1307065,runaway,2000,2017,PORTLAND,Multnomah,Oregon
 ALMALEENA DUNN-O'BRIEN,16,female,white,1298626,runaway,2001,2017,PORTLAND,Multnomah,Oregon
-DERRICK ENGEBRETSON,27,male,white,857924,missing,1990,1998,BONANZA,,Oregon
+DERRICK ENGEBRETSON,27,male,white,857924,missing,1990,1998,BONANZA,Multnomah,Oregon
 ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,abduct,2015,2016,PORTLAND,Multnomah,Oregon
 CHRISTIE FARNI,45,female,white,601237,abduct,1972,1978,MEDFORD,Jackson,Oregon
 DUANE FOCHTMAN,46,male,white,601308,missing,1971,1986,LINCOLN CITY,Lincoln,Oregon
@@ -2703,7 +2698,7 @@ MARIA GARCIA WATERMAN,16,female,hispanic,1303044,runaway,2001,2016,SALEM,Marion,
 THOMAS GIBSON,29,male,white,752142,missing,1988,1991,GLENDALE,Douglas,Oregon
 RODNEY GRISSOM,55,male,white,1190160,runaway,1962,1977,CORNELIUS,Washington,Oregon
 KANE GROESZ,17,male,white,1303880,runaway,2000,2017,TERREBONNE,Jefferson,Oregon
-WILLIAM GUNN,48,male,white,601618,missing,1969,1984,KLAMATH FALLS,,Oregon
+WILLIAM GUNN,48,male,white,601618,missing,1969,1984,KLAMATH FALLS,Jefferson,Oregon
 JOAN HALL,51,female,white,1044727,missing,1966,1983,WARRENTON,Clatsop,Oregon
 ROBYN HATCHER,17,female,white,1244353,runaway,2000,2014,EUGENE,Lane,Oregon
 SHAINA KIRKPATRICK,18,female,white,911559,missing,1999,2001,PORTLAND,Multnomah,Oregon
@@ -2712,7 +2707,7 @@ ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,abduct,2015,2016,PORTLAND,Multnomah,O
 ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,abduct,2015,2016,PORTLAND,Multnomah,Oregon
 KYRON HORMAN,15,male,white,1149070,missing,2002,2010,PORTLAND,Multnomah,Oregon
 ALEAH HURSE,17,female,white,1304925,runaway,2000,2017,LA GRANDE,Union,Oregon
-SHAYDIN JONES-HOISINGTON,16,male,native american,1300632,runaway,2001,2017,PENDLETON,,Oregon
+SHAYDIN JONES-HOISINGTON,16,male,native american,1300632,runaway,2001,2017,PENDLETON,Union,Oregon
 SHYON KALEIOHI SILVA,16,male,pacific,1285922,runaway,2001,2016,WOODBURN,Marion,Oregon
 CINDY KING,56,female,white,602221,missing,1961,1977,GRANTS PASS,Josephine,Oregon
 SHAINA KIRKPATRICK,18,female,white,911559,missing,1999,2001,PORTLAND,Multnomah,Oregon
@@ -2722,11 +2717,11 @@ MICHAEL LEE,24,male,white,1142344,runaway,1993,2009,EUGENE,Lane,Oregon
 JULIA LOPEZ GARCIA,18,female,hispanic,1281393,runaway,1998,2016,GRESHAM,Multnomah,Oregon
 AYLA MCARTHUR,15,female,white,1306599,runaway,2001,2017,COOS BAY,Coos,Oregon
 JESUS MERINO-MENDOZA,13,male,hispanic,1076073,abduct,2004,2007,PORTLAND,Clackamas,Oregon
-JAMES MONTI,40,male,white,802941,runaway,1977,1995,KLAMATH FALLS,,Oregon
+JAMES MONTI,40,male,white,802941,runaway,1977,1995,KLAMATH FALLS,Clackamas,Oregon
 EDWARD NYE,54,male,white,756709,missing,1963,1978,PROSPECT,Jackson,Oregon
 BRIAN PAGE,59,male,white,866734,missing,1958,1975,SALEM,Marion,Oregon
 BRANDON PERDUE,27,male,white,1098922,missing,1990,2008,MEDFORD,Jackson,Oregon
-KACEY PERRY,37,female,white,745166,missing,1980,1990,PORTLAND,,Oregon
+KACEY PERRY,37,female,white,745166,missing,1980,1990,PORTLAND,Jackson,Oregon
 RACHANDA PICKLE,40,female,white,745119,missing,1977,1990,SISTERS,Deschutes,Oregon
 SHEYLENE PIERCE,16,female,white,1307101,runaway,2000,2017,MILTON FREEWATER,Umatilla,Oregon
 JAY PRINGLE,58,male,white,1133094,missing,1959,1977,MEDFORD,Jackson,Oregon
@@ -2746,9 +2741,9 @@ KALIS ADAMS,17,male,black,1284078,runaway,2000,2016,PHILADELPHIA,Philadelphia,Pe
 ALISSA ALBIZU,15,female,hispanic,1263035,runaway,2002,2015,PHILADELPHIA,Philadelphia,Pennsylvania
 HAMZA ALI,4,male,black,1251042,missing,2013,2013,UPPER DARBY,Delaware,Pennsylvania
 ARALE BARANDA,17,female,hispanic,1271739,runaway,2000,2016,PHILADELPHIA,Philadelphia County,Pennsylvania
-JEANINE BARNWELL,35,female,black,600207,abduct,1981,1985,PHILADELPHIA,,Pennsylvania
+JEANINE BARNWELL,35,female,black,600207,abduct,1981,1985,PHILADELPHIA,Philadelphia County,Pennsylvania
 GENELLE BRADFORD,36,female,black,864072,runaway,1981,1999,PITTSBURGH,Alleghany,Pennsylvania
-ALLEN BRISCOE,47,male,black,600428,abduct,1969,1985,PHILADELPHIA,,Pennsylvania
+ALLEN BRISCOE,47,male,black,600428,abduct,1969,1985,PHILADELPHIA,Philadelphia County,Pennsylvania
 ERIKA BROWN,26,female,black,1060384,runaway,1991,2006,PHILADELPHIA,Philadelphia,Pennsylvania
 TRACY BYRD,49,female,white,600609,abduct,1968,1983,BENSALEM,Bucks,Pennsylvania
 TRU CARSON,16,female,black,1295921,runaway,2001,2017,LAKE ARIEL,Wayne,Pennsylvania
@@ -2954,7 +2949,7 @@ MARTHA GREEN,47,female,white,601576,abduct,1970,1987,WHITE BLUFF,Dickson,Tenness
 KELSEY GUESS-WHITEHEAD,17,female,white,1288880,runaway,2000,2017,ROGERSVILLE,Hawkins,Tennessee
 CHARLIE HALL,51,male,black,601646,missing,1966,1981,NASHVILLE,Davidson,Tennessee
 LADERIUS HARDY,17,male,black,1305184,runaway,2000,2017,MEMPHIS,Shelby,Tennessee
-RAYLENE HELSLEY,46,female,white,601681,abduct,1970,1983,RUSTON,,Tennessee
+RAYLENE HELSLEY,46,female,white,601681,abduct,1970,1983,RUSTON,Shelby,Tennessee
 JARED HUGUELEY,14,male,white,1291590,runaway,2003,2017,MEMPHIS,Shelby,Tennessee
 ASHLEY JONES,25,female,white,823352,missing,1992,1996,MEMPHIS,Shelby,Tennessee
 JAMES JONES,16,male,white,1307409,runaway,2000,2017,KNOXVILLE,Knox,Tennessee
@@ -2972,7 +2967,7 @@ DENNIS MARTIN,55,male,white,1178747,missing,1962,1969,GREAT SMOKY MOUNTAINS,Blou
 CAYCE MCDANIEL,35,female,white,822496,missing,1982,1996,MILAN,Gibson,Tennessee
 LUCY MEADOWS,24,female,asian,821146,abduct,1992,1996,GOODLETTSVILLE,Davidson,Tennessee
 RANDLE MEDLIN,16,male,white,1301201,runaway,2000,2017,KNOXVILLE,Knox,Tennessee
-BRIANA NASH,16,female,white,1307511,runaway,2000,2017,PIGEON FORGE,,Tennessee
+BRIANA NASH,16,female,white,1307511,runaway,2000,2017,PIGEON FORGE,Knox,Tennessee
 CATARINA NOLASCO QUINONEZ,16,female,hispanic,1265897,runaway,2001,2015,SHELBYVILLE,Bedford,Tennessee
 LOGAN PLEASANT,15,male,biracial,1308073,runaway,2002,2017,LOUISVILLE,Blount,Tennessee
 LEYLA PRECIADO MARISCAL,9,female,hispanic,1296621,abduct,2008,2017,ANTIOCH,Davidson,Tennessee
