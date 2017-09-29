@@ -1,6 +1,7 @@
 name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
 GARRETT BARDSLEY,25,male,white,995300,endangeredMissing,1992,2004,CUBERANT LAKE,Summit,UT
 ACACIA BISHOP,15,female,white,963601,endangeredMissing,2001,2003,SALT LAKE CITY,Salt Lake,UT
+DRADEN CHECORA,16,male,amInd,1307794,endangeredRunaway,2001,2017,SALT LAKE CITY,Salt Lake,UT
 KIPLYN DAVIS,38,female,white,804981,endangeredMissing,1979,1995,SPANISH FORK,Utah,UT
 JASON DENNIS,33,male,biracial,933515,endangeredRunaway,1984,2002,SAINT GEORGE,Washington,UT
 DEBRA FROST,50,female,white,601379,nonFamilyAbduct,1967,1984,SALT LAKE CITY,,UT
