@@ -347,7 +347,7 @@ ANA FRANCO,18,female,hispanic,1286378,runaway,1999,2016,BELL,Los Angeles County,
 BARBARA FUENTES,19,female,hispanic,1253275,runaway,1998,2014,LOS ANGELES,Los Angeles,California
 JOSE FUENTES PEREIRA,30,male,hispanic,861376,missing,1986,1993,SAN DIEGO,Fulton,California
 ORLANDO GAMINO,18,male,hispanic,1269570,runaway,1998,2014,LOS ANGELES,Los Angeles,California
-BRITTNEY GARCIA,17,,white,1307223,runaway,2000,2017,OXNARD,Ventura,California
+BRITTNEY GARCIA,17,female,white,1307223,runaway,2000,2017,OXNARD,Ventura,California
 FABIAN GARCIA,14,male,hispanic,1280665,runaway,2002,2016,VAN NUYS,Los Angeles,California
 JOSE GARCIA,17,male,hispanic,1307439,runaway,2000,2017,SYLMAR,Los Angeles,California
 MILAYDI GARCIA,17,female,hispanic,1264448,runaway,1999,2016,LOS ANGELES,Los Angeles,California
@@ -1248,7 +1248,7 @@ ALEJANDRA NAVA,27,female,hispanic,977985,runaway,1989,2003,MORROW,Clayton,Georgi
 SHY'KEMMIA PATE,27,female,black,852942,missing,1989,1998,UNADILLA,Dooly,Georgia
 JUAN PAVON,17,male,hispanic,1305501,runaway,2000,2017,CLARKSTON,DeKalb,Georgia
 SINDY PEREZ-AGUILAR,12,female,hispanic,1115162,abduct,2005,2009,GREENSBORO,Greene,Georgia
-JAIRO PEREZ-VALENZUELA,17,,hispanic,1296275,runaway,2000,2017,ALPHARETTA,Fulton,Georgia
+JAIRO PEREZ-VALENZUELA,17,male,hispanic,1296275,runaway,2000,2017,ALPHARETTA,Fulton,Georgia
 JAIYLA PINEDA,15,female,biracial,1305761,runaway,2002,2017,HAMILTON,Harris,Georgia
 KARLA PORTILLO-AMAYA,21,female,hispanic,1167699,runaway,1995,2010,CHAMBLEE,DeKalb,Georgia
 NIQUIA POSTELL,19,female,black,1268185,runaway,1998,2016,CANTON,Cherokee,Georgia
@@ -1441,7 +1441,7 @@ BRAEDON BANDY,18,male,white,1307360,runaway,1999,2017,GREENTOWN,Howard County,In
 MASON BILBREY,17,male,white,1281496,runaway,2000,2016,MUNCIE,Delaware County,Indiana
 TERRANCE BONILLA,17,male,biracial,1238514,runaway,2000,2014,BEECH GROVE,Marion,Indiana
 DAYRL BOTHELL JR,16,male,white,1302223,runaway,2001,2017,INDIANAPOLIS,Marion,Indiana
-STEPHANIE BOWERS,17,,white,1305113,runaway,2000,2017,SOUTH BEND,St Joseph,Indiana
+STEPHANIE BOWERS,17,female,white,1305113,runaway,2000,2017,SOUTH BEND,St Joseph,Indiana
 DERICA BURNETT,17,female,black,1302608,runaway,2000,2017,INDIANAPOLIS,Marion County,Indiana
 DEBRA COLE,48,female,white,600785,missing,1969,1981,LEBANON,Marion County,Indiana
 MELINDA CREECH,52,female,white,1036765,missing,1965,1979,ANDERSON,Madison,Indiana
@@ -2333,7 +2333,7 @@ MELANIE GARCIA,13,female,hispanic,1306347,runaway,2003,2017,STATEN ISLAND,Richmo
 MELANIE GARCIA,13,female,hispanic,1308042,runaway,2003,2017,STATEN ISLAND,Richmond,New York
 NATHANIEL GILBERT,16,male,biracial,1299394,runaway,2000,2017,BUFFALO,Erie,New York
 SHAUNTAY GILLIAM,20,female,black,1253959,missing,1997,2015,PLEASANTVILLE,Westchester,New York
-COLIN GILLIS,23,male,white,1197145,,1994,2012,TUPPER LAKE,Franklin,New York
+COLIN GILLIS,23,male,white,1197145,unknown,1994,2012,TUPPER LAKE,Franklin,New York
 MARIAH GIOUSOS,17,female,white,18388,runaway,2000,2015,BELLMORE,Nassau,New York
 NATHALIE GRACIA,14,female,hispanic,21264,runaway,2002,2017,PLEASANTVILLE,Westchester,New York
 JONATHAN GRANISON-BRADLEY,32,male,black,1216793,missing,1985,2005,ROCHESTER,Monroe,New York
@@ -2365,7 +2365,7 @@ OCTAVIA JACKSON,16,female,black,1302746,runaway,2001,2017,ELMSFORD,Westchester,N
 TIAHEASE JACKSON,44,female,black,701777,abduct,1972,1983,STATEN ISLAND,Richmond,New York
 KEIJONTE JACKSON-CARRERO,16,male,black,1290129,runaway,2001,2017,BRONX,Bronx,New York
 NIKHITA JAGTIANI,8,female,asian,1244838,abduct,2009,2013,NEW YORK,New York,New York
-NIKHITA JAGTIANI,8,female,N/A,19336,abduct,2009,2013,REGO PARK,Queens,New York
+NIKHITA JAGTIANI,8,female,unknown,19336,abduct,2009,2013,REGO PARK,Queens,New York
 TRINITY JOHNSON,14,female,white,1306409,runaway,2003,2017,POUGHKEEPSIE,Dutchess,New York
 TRINITY JOHNSON,14,female,white,21318,runaway,2003,2017,POUGHKEEPSIE,Dutchess,New York
 YAVANKA JOHNSON,15,female,biracial,1293958,runaway,2002,2017,YONKERS,Westchester,New York
@@ -2418,7 +2418,7 @@ JEHUDI RIVERA,16,male,hispanic,1307411,runaway,2000,2017,YONKERS,Westchester,New
 LIZSANDRA RIVERA,15,female,hispanic,1305486,runaway,2002,2017,BUFFALO,Erie,New York
 JANESSIA ROBERTS,16,female,hispanic,1281574,runaway,2001,2016,HAWTHORNE,Westchester,New York
 MARIELA ROBLERO BRAVO,20,female,hispanic,1205883,runaway,1997,2012,BRENTWOOD,Suffolk,New York
-KATELYN RODRIGUEZ,16,female,N/A,21229,runaway,2000,2017,RIVERHEAD,Suffolk,New York
+KATELYN RODRIGUEZ,16,female,unknown,21229,runaway,2000,2017,RIVERHEAD,Suffolk,New York
 PEDRO RODRIGUEZ PARADA,16,male,hispanic,1278556,runaway,2001,2016,HUNTINGTON STATION,Suffolk,New York
 QUA'MERE ROGERS,12,male,black,1145099,missing,2005,2008,SYRACUSE,Onondaga,New York
 CINDY ROWLES,48,female,white,776875,missing,1968,1986,KINGSTON,Ulster,New York
@@ -2670,7 +2670,7 @@ HALEY SPEAKS,14,female,white,1308236,runaway,2003,2017,OKLAHOMA CITY,Oklahoma,Ok
 JAIDENCE STALLINGS,12,female,black,1302878,abduct,2005,2017,TULSA,Tulsa,Oklahoma
 ROSHAWNA STEPHENS,14,female,black,1250467,runaway,2003,2015,OKLAHOMA CITY,Oklahoma,Oklahoma
 PATRICIA TAYLOR,51,female,white,1259247,missing,1965,1981,OWASSO,Tulsa,Oklahoma
-ROSEMARIE TIMPERLEY,22,female,white,1263263,,1995,2016,OKMULGEE,Okmulgee,Oklahoma
+ROSEMARIE TIMPERLEY,22,female,white,1263263,unknown,1995,2016,OKMULGEE,Okmulgee,Oklahoma
 BETHANY TINER,24,female,biracial,828286,abduct,1993,1997,CHICKASHA,Grady,Oklahoma
 PAMELA TINSLEY,51,female,white,1002385,missing,1966,1986,OKLAHOMA CITY,Oklahoma,Oklahoma
 LOGAN TUCKER,21,male,white,939490,missing,1996,2002,WOODWARD,Woodward,Oklahoma
@@ -2907,7 +2907,7 @@ ALIYAH SIMMONS,16,female,black,1307912,runaway,2001,2017,GEORGETOWN,Georgetown,S
 EMILY SMITH,16,female,white,1308380,runaway,2001,2017,ANDERSON,Anderson,South Carolina
 PEYTON STAGGS,16,male,white,1297833,runaway,2000,2017,BISHOPVILLE,Lee,South Carolina
 AUSTIN TOLLESON,18,male,white,1263720,runaway,1999,2016,SPARTANBURG,Spartanburg County,South Carolina
-JOSHUA VARHOLA,17,,white,1306294,runaway,1999,2017,LEXINGTON,Lexington,South Carolina
+JOSHUA VARHOLA,17,male,white,1306294,runaway,1999,2017,LEXINGTON,Lexington,South Carolina
 DAQUAN WILLIAMS,25,male,black,1166091,missing,1991,2011,WALTERBORO,Colleton,South Carolina
 LEXX WILLIAMSON,17,female,black,1303779,runaway,2000,2017,COLUMBIA,Richland,South Carolina
 SAVANNAH WILSON,17,female,white,1299190,runaway,2000,2017,WINNSBORO,Fairfield,South Carolina
@@ -3041,7 +3041,6 @@ DESIREE CASILLAS,17,female,hispanic,1307392,runaway,1999,2017,DALLAS,Dallas,Texa
 PIA CASILLAS,18,female,biracial,1282037,runaway,1999,2016,KERRVILLE,Kerr,Texas
 MARLENE CASTRO,25,female,white,R0807008,runaway,1992,2008,DENTON,Denton,Texas
 MELVIN CEDILLO,28,male,hispanic,M0607013,missing,1989,2005,BROWNSVILLE,Cameron,Texas
- ,N/A,,,1298343,,,,,,Texas
 KRISTIANNA CHAVEZ,15,female,white,1307408,runaway,2002,2017,NEW BRAUNFELS,Comal,Texas
 DOMINGO CHICOJ XIRUM,19,male,hispanic,1224865,runaway,1998,2013,BAYTOWN,Harris,Texas
 AUSTIN CHILDS,30,male,white,M0506013,missing,1987,2005,FREEPORT,Brazoria,Texas
@@ -3289,7 +3288,7 @@ JAMES SEGUINE,17,male,white,1292143,runaway,2000,2017,AUSTIN,Travis,Texas
 AURORA SKIBO,13,female,white,1292066,runaway,2004,2017,HOUSTON,Harris,Texas
 PATRICIA SMALL,33,female,white,1169822,missing,1983,2002,LIBERTY,Liberty,Texas
 SUSAN SMALLEY,48,female,white,830487,missing,1969,1988,CARROLLTON,Denton,Texas
-ALLENA SMITH,17,,black,1279530,runaway,2000,2016,HOUSTON,Harris,Texas
+ALLENA SMITH,17,female,black,1279530,runaway,2000,2016,HOUSTON,Harris,Texas
 YASMINE SMITH,16,female,black,1297632,runaway,2000,2017,DESOTO,Dallas,Texas
 JORGE SOSA,17,male,hispanic,1276599,runaway,2000,2016,COLLEYVILLE,Tarrant,Texas
 WILLIAM SPENCER,12,male,white,1247035,abduct,2005,2009,BLUE RIDGE,Collin,Texas
@@ -3421,7 +3420,7 @@ RAFAEL CHAVEZ-MATIAS,N/A,male,white,VA17-1998,runaway,2014,2017,LEESBURG,Loudoun
 DIEGO CHEL RAYMUNDO,N/A,male,white,BA16-0074,runaway,2014,2017,LEESBURG,Loudoun,Virginia
 TANAIYA CHILDRESS-BURTON,N/A,female,black,VA17-2103,runaway,2014,2017,LEESBURG,Loudoun,Virginia
 NAHOMY CHINCHILLA-PINTO,N/A,female,white,VA17-1813,runaway,2014,2017,LEESBURG,Loudoun,Virginia
-OLIVER CHIPMAN,N/A,male,N/A,VA17-2161,runaway,2014,2017,LEESBURG,Loudoun,Virginia
+OLIVER CHIPMAN,N/A,male,unknown,VA17-2161,runaway,2014,2017,LEESBURG,Loudoun,Virginia
 WILFREDO CHUN AGUILAR,N/A,male,white,VADS16-3081,runaway,2014,2017,LEESBURG,Loudoun,Virginia
 SAMANTHA CLARKE,26,female,white,1157951,missing,1991,2010,ORANGE,Orange,Virginia
 NYASIA CLEMENTS JACKSON,N/A,female,black,VA17-1117,runaway,1991,2010,ORANGE,Orange,Virginia
@@ -3447,7 +3446,7 @@ ENIYAH DAVIS,N/A,female,black,VA17-2348,runaway,1960,1974,WOODBRIDGE,Prince Will
 TRISTEN DAVIS,N/A,female,white,VA17-2511,runaway,1960,1974,WOODBRIDGE,Prince William,Virginia
 JORDAN DEAN,14,male,biracial,1301166,runaway,2002,2017,CHESTERFIELD,Chesterfield,Virginia
 JIMMIE DEEL,N/A,male,white,VA17-0638,runaway,2002,2017,CHESTERFIELD,Chesterfield,Virginia
-DAMIEN DEMERS,N/A,male,N/A,VA17-1358,runaway,2002,2017,CHESTERFIELD,Chesterfield,Virginia
+DAMIEN DEMERS,N/A,male,unknown,VA17-1358,runaway,2002,2017,CHESTERFIELD,Chesterfield,Virginia
 AMY DE PAZ,15,female,hispanic,1306065,runaway,2002,2017,BRISTOW,Prince William,Virginia
 WILMER DOMINGUEZ,N/A,male,hispanic,VADS17-0529,runaway,2002,2017,BRISTOW,Prince William,Virginia
 KELLY DOVE,N/A,female,white,VA16-0024,abduct,2002,2017,BRISTOW,Prince William,Virginia
@@ -3486,7 +3485,7 @@ KATLYN GRAY,N/A,female,white,VA17-1823,runaway,,,,,Virginia
 RICHARD GREGGS,N/A,male,black,VA17-2415,runaway,,,,,Virginia
 SHANYIA GRIFFIN,N/A,female,black,VA17-2486,runaway,,,,,Virginia
 MERLYN GUARDADO MENJIVAR,18,male,hispanic,1245031,runaway,1999,2014,MANASSAS,Manassas City,Virginia
-WENDY GUERRERO-LOPEZ,N/A,female,N/A,VA16-2772,runaway,,,,,Virginia
+WENDY GUERRERO-LOPEZ,N/A,female,unknown,VA16-2772,runaway,,,,,Virginia
 MARIA GUEVARA DELCID,N/A,female,white,VA17-0623,runaway,,,,,Virginia
 RHEA GUPTA,6,female,asian,1198975,abduct,2010,2011,MCLEAN,Fairfax,Virginia
 BRIAN HALEY,N/A,male,black,VA17-2576,runaway,,,,,Virginia
@@ -3563,7 +3562,7 @@ CHRISTOPHER MENDEZ HERNANDEZ,N/A,male,white,VA17-1735,runaway,2007,2011,CULPEPER
 MERLYN MENJIVAR GUARDADO,N/A,male,white,VA16-0791,runaway,2007,2011,CULPEPER,Culpeper,Virginia
 ISABELLA MILLER-JENKINS,15,female,white,1138096,abduct,2002,2010,BEDFORD,Bedford City,Virginia
 DAYONIA MIZELL,N/A,female,black,VA17-1940,runaway,2002,2010,BEDFORD,Bedford City,Virginia
-SELVIN MOLINA,N/A,male,N/A,VA15-2233,runaway,2002,2010,BEDFORD,Bedford City,Virginia
+SELVIN MOLINA,N/A,male,unknown,VA15-2233,runaway,2002,2010,BEDFORD,Bedford City,Virginia
 VICTORIA MOLINA,N/A,female,white,VA17-2097,abduct,2002,2010,BEDFORD,Bedford City,Virginia
 BARBARA MONACO,57,female,white,1161976,missing,1960,1978,VIRGINIA BEACH,Virginia Beach City,Virginia
 BESY MONTOYA-CRUZ,17,female,hispanic,1301062,runaway,2000,2017,STERLING,Loudoun,Virginia
@@ -3630,7 +3629,7 @@ ANDREA RODRIGUEZ,N/A,female,white,VA17-2138,runaway,1940,1957,WEST POINT,King Wi
 MARCELA RODRIGUEZ,N/A,female,white,VA17-1639,runaway,1940,1957,WEST POINT,King William,Virginia
 EDGAR RODRIGUEZ-ROJAS,N/A,male,white,VA17-0182,missing,1940,1957,WEST POINT,King William,Virginia
 MARCELA RODRIGUEZ ZUNIGA,14,female,hispanic,1301681,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
-MARIA RODRIQUEZ-FLORES,N/A,female,N/A,VA17-2417,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
+MARIA RODRIQUEZ-FLORES,N/A,female,unknown,VA17-2417,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
 VICTORIA ROMANCZYK,N/A,female,white,VA17-2125,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
 DEMETRIE ROUNDTREE,N/A,male,black,VA17-2201,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
 RAEQUAN RUCKER,N/A,male,black,VA17-2583,runaway,2002,2017,FALLS CHURCH,Fairfax,Virginia
