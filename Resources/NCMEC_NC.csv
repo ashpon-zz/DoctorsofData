@@ -18,6 +18,7 @@ JANE DOE1990,-1,female,white,1106716,unidentified,,,,,
 JOHN DOE1993,-1,male,white,1184298,unidentified,,,,,
 JOHN DOE1998,-1,male,white,1104001,unidentified,,,,,
 JANE DOE1999,-1,female,white,1107394,unidentified,,,,,
+DESTINY ENGLE,15,female,biracial,1308978,endangeredRunaway,2001,2017,STATESVILLE,Iredell County,NC
 RUBELSY ESCALANTE PEREZ,19,male,hispanic,1263158,endangeredRunaway,1998,2016,SAINT PAULS,Robeson,NC
 KELLY GASKINS,29,female,white,1244697,missing,1988,2007,CHOCOWINITY,Beaufort,NC
 AMY GIBSON,42,female,white,785791,endangeredMissing,1975,1990,GREENSBORO,,NC
@@ -38,7 +39,6 @@ DIANE MOON,62,female,white,1170870,nonFamilyAbduct,1955,1962,CAMP LEJEUNE,Onslow
 TRISTEN MYERS,21,male,white,897039,nonFamilyAbduct,1996,2000,ROSEBORO,Sampson,NC
 SAMANTHA PAGE,17,female,white,1306351,endangeredRunaway,2000,2017,MONROE,Union,NC
 JENNIFER PATTERSON,33,female,white,755927,nonFamilyAbduct,1984,1991,SPRING LAKE,Cumberland,NC
-KIANA PEARSALL,15,female,black,1308591,endangeredRunaway,2002,2017,JACKSONVILLE,Onslow,NC
 ANGELA PILNY,11,female,biracial,1253285,familyAbduct,2006,2015,WAKE FOREST,Wake,NC
 TIMEKA PRIDGEN,33,female,black,911721,endangeredMissing,1984,2001,LA GRANGE,Lenoir,NC
 OLVIN RAMIREZ CANTILLANO,18,male,hispanic,1282722,endangeredRunaway,1999,2016,BESSEMER CITY,Gaston,NC
@@ -50,8 +50,6 @@ JOSE SALUCIO-RAMIREZ,17,male,hispanic,1251733,endangeredRunaway,1999,2015,BETHEL
 DOMINGO SANCHEZ GONZALEZ,20,male,hispanic,1104622,familyAbduct,1996,2008,LOUISBURG,Franklin,NC
 DOMINGO SANCHEZ GONZALEZ,20,male,hispanic,1104622,familyAbduct,1996,2008,LOUISBURG,Franklin,NC
 URIJAH SEAGRAVES,8,male,biracial,1231950,familyAbduct,2009,2012,BURGAW,Pender,NC
-ADAM SHIHADEH,9,male,white,1244707,familyAbduct,2008,2014,CARY,Wake,NC
-ADAM SHIHADEH,9,male,white,1244707,familyAbduct,2008,2014,CARY,Wake,NC
 DOUGLAS SIMMONS,47,male,white,1141638,missing,1970,1990,RALEIGH,Wake,NC
 ANDRE THOMPSON,4,male,black,1236643,familyAbduct,2013,2014,DURHAM,,NC
 KIMBERLY THROWER,29,female,amInd,990799,endangeredRunaway,1987,2004,LAURINBURG,Scotland,NC

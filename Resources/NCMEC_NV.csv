@@ -3,9 +3,9 @@ name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_
 CHRISTIAN AMOS,16,male,black,1286948,endangeredRunaway,2001,2017,LAS VEGAS,Clark County,NV
 SAMUEL BOEHLKE,19,male,white,1055859,endangeredMissing,1998,2006,CRATER LAKE,Klamath,OR
 SIRENITY BRESSELSMITH,3,female,white,1277847,familyAbduct,2014,2016,LAS VEGAS,Clark,NV
-ISAIAH BROUSSARD,14,male,black,1306172,endangeredRunaway,2003,2017,NORTH LAS VEGAS,Clark,NV
 SANDRA BUTLER,55,female,white,765685,endangeredMissing,1962,1978,SPARKS,Washoe,NV
 EVERLYSE CABRERA,13,female,hispanic,1046382,endangeredMissing,2004,2006,NORTH LAS VEGAS,Clark,NV
+ISAIAH CARTER,13,male,biracial,1308558,endangeredRunaway,2004,2017,LAS VEGAS,Clark,NV
 KALESHA CONRADI,17,female,biracial,1300950,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
 TAMERA CURTIS,17,female,black,1288033,endangeredRunaway,2000,2016,RENO,Washoe,NV
 JANE DOE1979,-1,female,white,1104104,unidentified,,,,,
@@ -55,6 +55,7 @@ DEMIA SIMMONS- HAMPTONIE,17,female,biracial,1303614,endangeredRunaway,2000,2017,
 TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
 "CIRENIO SOLIS, JR.",23,male,whiteHisp,98070301,familyAbduct,1994,1998,CARSON CITY,CARSON CITY,NV
 RYLAN UNTALASCO,17,male,asian,1128401,familyAbduct,2000,2009,LAS VEGAS,Clark,NV
+MIGUEL WALKER,16,male,black,1307798,endangeredRunaway,2001,2017,LAS VEGAS,Clark County,NV
 BRIANNA WARNES,24,female,white,856457,familyAbduct,1993,1996,HENDERSON,Clark,NV
 NICHOLAS WARREN,16,male,white,1308576,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
 NATALIA WHARTON,19,female,biracial,1235975,endangeredRunaway,1998,2014,LAS VEGAS,Clark,NV

@@ -2,6 +2,7 @@ name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_
 AARON ANDERSON,30,male,white,723921,nonFamilyAbduct,1987,1989,PINE CITY,Pine,MN
 ALEAH ANDERSON,12,female,black,1301273,endangeredRunaway,2005,2017,MINNEAPOLIS,Hennepin,MN
 KEVIN AYOTTE,38,male,white,600172,nonFamilyAbduct,1979,1982,SUGARBUSH TOWNSHIP,Beltrami,MN
+SERENA BONORDEN,16,female,biracial,1308523,endangeredRunaway,2000,2017,MINNEAPOLIS,Hennepin,MN
 RAKIA BROWN-SNARSKI,13,female,biracial,1296659,endangeredRunaway,2004,2017,MINNEAPOLIS,Hennepin,MN
 ELICIA BURRIS,15,female,black,1306733,endangeredRunaway,2002,2017,MINNEAPOLIS,Hennepin,MN
 PEDRO CHEL COBO,18,male,hispanic,1279989,endangeredRunaway,1999,2016,FARIBAULT,Rice,MN
@@ -24,7 +25,6 @@ REINA LANDAVERDE-HUEZO,18,female,hispanic,1261282,endangeredRunaway,1999,2015,CR
 JARED LARSON,17,male,white,1304814,endangeredRunaway,2000,2017,MONTICELLO,Wright,MN
 HANG LEE,41,female,asian,778205,nonFamilyAbduct,1975,1993,SAINT PAUL,Ramsey,MN
 TRISTEN LOCKHART,15,male,biracial,1298297,endangeredRunaway,2002,2017,ROCHESTER,Olmsted,MN
-ALEXIS MAYFIELD,17,female,black,1299166,endangeredRunaway,2000,2017,SAINT PAUL,Ramsey County,MN
 DANIEL NEWVILLE,33,male,white,1290239,missing,1984,2002,NEW LONDON,Kandiyohi,MN
 PAIGE OVERBY,16,female,white,1297405,endangeredRunaway,2001,2017,MINNEAPOLIS,Anoka,MN
 VICTORIA OWCZYNSKY,44,female,white,1150452,endangeredMissing,1973,1990,MINNEAPOLIS,Hennepin,MN

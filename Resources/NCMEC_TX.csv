@@ -3,6 +3,7 @@ JANE DOE 2016 ,-1,female,unknown,1291323,unidentified,,,,,
 CITLALLI AGUILAR,16,female,hispanic,1307870,endangeredRunaway,2001,2017,GREENVILLE,Hunt,TX
 HOPE AGUIRRE,17,female,hispanic,1304455,endangeredRunaway,2000,2017,BALCH SPRINGS,Dallas County,TX
 MELISSA ALANIZ,43,female,hispanic,1074887,endangeredMissing,1974,1987,EL PASO,El Paso,TX
+GLORIA ALLEN THOMAS,16,female,black,1308916,endangeredRunaway,2000,2017,DALLAS,Dallas,TX
 YESSENIA ALMANZA,16,female,hispanic,1284082,endangeredRunaway,2001,2016,WACO,McLennan,TX
 ADRIAN ALMENDAREZ,17,male,hispanic,1306886,endangeredRunaway,2000,2017,ROSENBERG,Fort Bend,TX
 GABY ALONZO-GONZALEZ,14,female,hispanic,1297580,endangeredRunaway,2003,2017,KATY,Harris,TX
@@ -21,7 +22,6 @@ LISA BORDEN,57,female,white,M9808001,missing,1960,1979,BIG SPRING,Howard,TX
 LAURISSA BOVE,16,female,hispanic,1292001,endangeredRunaway,2001,2017,AUSTIN,Travis,TX
 EBRAHIM BOZORGI,24,male,biracial,885564,familyAbduct,1993,1999,PASADENA,Harris,TX
 EBRAHIM BOZORGI,24,male,biracial,885564,familyAbduct,1993,1999,PASADENA,Harris,TX
-JASMINE BRANK,16,female,white,1308782,endangeredRunaway,2001,2017,DALLAS,Dallas,TX
 JOYCE BREWER,62,female,white,1058775,endangeredMissing,1955,1970,GRAND PRAIRIE,Dallas,TX
 JUSTIN BROWN,14,male,white,1304813,endangeredRunaway,2003,2017,HOUSTON,Harris,TX
 KA'TARA BROWN,17,female,black,1302186,endangeredRunaway,2000,2017,BRYAN,Brazos,TX
@@ -45,12 +45,10 @@ CHEVLYN CANTU,17,female,hispanic,1306837,endangeredRunaway,1999,2017,DILLEY,Frio
 HOPE CANTU,17,female,hispanic,1308560,endangeredRunaway,2000,2017,SAN BENITO,Cameron,TX
 MARIA CARDENAS,16,female,biracial,1307766,endangeredRunaway,2001,2017,GARLAND,Dallas,TX
 KATHERINE PAOLA CARDONA PALACIOS,17,female,hispanic,1263168,endangeredRunaway,2000,2016,HOUSTON,Harris,TX
-JASMINE CARMACK,14,female,white,1307764,endangeredRunaway,2002,2017,AUSTIN,Travis,TX
 MONICA CARRASCO,30,female,hispanic,973629,endangeredMissing,1986,2003,BALMORHEA,Reeves,TX
 DESIREE CARROLL,37,female,white,600677,endangeredMissing,1980,1983,KOSSE,,TX
 KAILA CARTER,17,female,black,1306057,endangeredRunaway,1999,2017,AUSTIN,Travis,TX
 DESIREE CASILLAS,17,female,hispanic,1307392,endangeredRunaway,1999,2017,DALLAS,Dallas,TX
-PIA CASILLAS,18,female,biracial,1282037,endangeredRunaway,1999,2016,KERRVILLE,Kerr,TX
 MARLENE CASTRO,25,female,white,R0807008,endangeredRunaway,1992,2008,DENTON,Denton,TX
 MELVIN CEDILLO,28,male,whiteHisp,M0607013,endangeredMissing,1989,2005,BROWNSVILLE,Cameron,TX
  ,-1,,,1298343,,,,,,
@@ -122,6 +120,7 @@ ETHAN ELLIS,10,male,biracial,1134045,familyAbduct,2006,2009,SPRING,Montgomery,TX
 KARELYN ENRIQUEZ,18,female,hispanic,1249317,endangeredRunaway,1998,2013,CORPUS CHRISTI,Nueces,TX
 CRUZ ESCOBAR,16,male,hispanic,1306382,endangeredRunaway,2001,2017,EDINBURG,Hidalgo,TX
 RYAN ESPARZA,27,male,hispanic,1073716,endangeredMissing,1990,2007,PASADENA,Harris,TX
+VERONICA ESQUIVEL,15,female,hispanic,1308642,endangeredRunaway,2002,2017,WACO,McLennan,TX
 THOMAS ESTEVIS,11,male,hispanic,1190402,endangeredMissing,2006,2008,LAREDO,Webb,TX
 ABIGAIL ESTRADA,23,female,hispanic,1073596,endangeredMissing,1993,2007,HARLINGEN,Cameron,TX
 LISA EUBANKS,36,female,white,1193778,endangeredRunaway,1981,1999,TEXARKANA,Bowie,TX
@@ -151,22 +150,22 @@ MANUEL GARDEA,18,male,hispanic,1091314,familyAbduct,1999,2008,PERRYTON,Ochiltree
 MEGAN GARNER,29,female,white,752334,nonFamilyAbduct,1987,1991,TYLER,Smith,TX
 BENITO GARZA,17,male,hispanic,1288023,endangeredRunaway,1999,2016,HONDO,Medina,TX
 ZENIA GARZA,12,female,hispanic,1308404,endangeredRunaway,2005,2017,HOUSTON,Harris,TX
-KALEIGH GASTON,15,female,white,1286150,endangeredRunaway,2002,2016,HOUSTON,Harris,TX
 JIOVANY GOMEZ,21,male,hispanic,1160942,endangeredRunaway,1996,2010,SAN MARCOS,Hays,TX
 JIOVANY GOMEZ,21,male,hispanic,1160942a,endangeredRunaway,1996,2010,SAN MARCOS,Hays,TX
 SUALEE GONZALEZ CASTRO,18,female,hispanic,1255256,endangeredRunaway,1998,2015,IRVING,Dallas,TX
 ANDREA GONZALEZ-MALDONADO,17,female,hispanic,1281658,endangeredRunaway,1999,2016,EDINBURG,Hidalgo,TX
+DUSTY GORDON,17,male,white,1308680,endangeredRunaway,2000,2017,HASLET,Tarrant,TX
 DAVID GOSNELL,22,male,whiteHisp,858017,familyAbduct,1994,1998,FONTANA,San Bernardino,CA
 ILIANNA GREENE,15,female,biracial,1307099,endangeredRunaway,2002,2017,SAN ANTONIO,Bexar,TX
 MARY GUARDIOLA,15,female,hispanic,1308687,endangeredRunaway,2002,2017,AUSTIN,Travis,TX
 YASMIN GUTIERREZ,17,female,hispanic,1297714,endangeredRunaway,2000,2017,FORT WORTH,Tarrant,TX
 CHRISTIAN HALL,27,male,white,1036585,endangeredRunaway,1990,2005,CORPUS CHRISTI,Nueces,TX
+JESSICA HARLOW,17,female,biracial,1308998,endangeredRunaway,1999,2017,BEAUMONT,Jefferson,TX
 DEMI HATCHETT,17,female,black,1300096,endangeredRunaway,2000,2017,SPRING,Harris,TX
 MALAHIA HAWKINS,5,female,black,1294743,familyAbduct,2012,2017,RUSK,Cherokee,TX
 ANTHONY HEBERT,17,male,biracial,1306342,endangeredRunaway,2000,2017,AUSTIN,Travis,TX
 DESTINY HERNANDEZ,17,female,hispanic,1305705,endangeredRunaway,2000,2017,SAN ANTONIO,Bexar,TX
 JOSE HERNANDEZ,13,male,hispanic,1291333,endangeredRunaway,2004,2017,BIG SPRING,Howard,TX
-SEBASTIAN HERNANDEZ,17,male,hispanic,1300961,endangeredRunaway,1999,2017,CONVERSE,Bexar,TX
 PEDRO HERNANDEZ CONTRERAS,18,male,hispanic,1292405,endangeredRunaway,1999,2017,DENTON,Denton,TX
 GRISSELDA HERNANDEZ MARTINEZ,18,female,hispanic,1293026,endangeredRunaway,1999,2017,HOUSTON,Harris,TX
 RUBEN HERRERA,48,male,hispanic,764923,nonFamilyAbduct,1969,1983,EL PASO,El Paso,TX
@@ -213,7 +212,6 @@ BRIANNA LUTZ,16,female,biracial,1305710,endangeredRunaway,2001,2017,SAN ANTONIO,
 MARCOS MACEDO,1,male,hispanic,1299364,familyAbduct,2015,2017,LONGVIEW,Gregg,TX
 STACIE MADISON,47,female,white,707842,nonFamilyAbduct,1970,1988,CARROLLTON,Dallas,TX
 ELIAN MAJANO,13,male,hispanic,1047169,endangeredMissing,2003,2006,IRVING,Dallas,TX
-VAEDA MANDUJANO,15,female,hispanic,1307805,endangeredRunaway,2002,2017,AUSTIN,Travis,TX
 GREGORY MANN,40,male,white,1290885,missing,1977,1997,WICHITA FALLS,Wichita,TX
 JOHN MARTENS,15,male,white,1080383,familyAbduct,2002,2007,MULESHOE,Bailey,TX
 AISLYNN MARTIN,17,female,white,1308702,endangeredRunaway,2000,2017,GARLAND,Dallas,TX
@@ -221,15 +219,14 @@ ANGEL MARTINEZ,16,female,hispanic,1279363,endangeredRunaway,2001,2016,EL PASO,El
 JESUS MARTINEZ,17,male,hispanic,999024,familyAbduct,1999,2004,HOUSTON,Harris,TX
 JULIE MARTINEZ,16,female,hispanic,1272940,endangeredRunaway,2000,2016,SAN ANTONIO,Bexar,TX
 MARIAH MARTINEZ,9,female,hispanic,1279670,familyAbduct,2008,2016,LUBBOCK,Lubbock,TX
-YOSELIN MARTINEZ ESTRADA,15,female,hispanic,1284703,endangeredRunaway,2002,2016,HOUSTON,Harris,TX
 LYNETTE MATHEWES,13,female,biracial,1306221,endangeredRunaway,2003,2017,BEAUMONT,Jefferson,TX
 MICHAEL MAYFIELD,39,male,black,603358,nonFamilyAbduct,1978,1985,HOUSTON,Harris,TX
 MICHAEL MAYFIELD,39,male,black,603358,nonFamilyAbduct,1978,1985,HOUSTON,Harris,TX
 ANDREW MAYORGA,27,male,hispanic,1061606,endangeredMissing,1989,2007,SAN ANTONIO,Bexar,TX
-DONALD MAYS,17,male,black,1307790,endangeredRunaway,2000,2017,HOUSTON,Harris,TX
 LLUVIA MCCRAW,12,female,black,1116482,familyAbduct,2005,2008,HOUSTON,Harris,TX
 DEANGELO MCNEIL,23,male,black,832954,endangeredMissing,1994,1997,HOUSTON,Harris,TX
 ALLEN MCPEAK,19,male,hispanic,1039893,endangeredMissing,1997,2001,MISSION,Hidalgo,TX
+JOSHUA MEDELLIN ROQUE,15,male,hispanic,1308925,endangeredRunaway,2001,2017,SAN ANTONIO,Bexar,TX
 JENNIFER MEDRANO,13,female,hispanic,1279023,endangeredRunaway,2004,2016,HOUSTON,Harris,TX
 JENNIFER MEDRANO,13,female,hispanic,1279023,endangeredRunaway,2004,2016,HOUSTON,Harris,TX
 KEYLA MEJIA ARMAS,16,female,hispanic,1302107,endangeredRunaway,2001,2017,GARLAND,Dallas,TX
@@ -241,7 +238,6 @@ NATHANIEL MITCHELL,16,male,white,1306257,endangeredRunaway,2000,2017,CROCKETT,Ho
 HENRY MOLINA JR.,14,male,hispanic,1277972,endangeredRunaway,2003,2016,CORPUS CHRISTI,Nueces,TX
 MICHAEL MONTELONGO,45,male,hispanic,603369,endangeredMissing,1972,1977,SAN BENITO,,TX
 BERDENA MOORE,16,female,black,1307661,endangeredRunaway,2000,2017,AZLE,Tarrant,TX
-MARICELA MORENO,26,female,white,R0710009,endangeredRunaway,1991,2007,PASADENA,Harris,TX
 SOPHIA MORENO,54,female,whiteHisp,901818,endangeredMissing,1962,1979,BRYAN,Brazos,TX
 FRED MOSELEY,36,male,white,1070760,endangeredMissing,1980,1998,CANYON,Randall,TX
 JULIE MOSELEY,52,female,white,815024,nonFamilyAbduct,1965,1974,FORT WORTH,Tarrant,TX
@@ -287,7 +283,6 @@ DIANA RECIO,14,female,hispanic,1307879,endangeredRunaway,2003,2017,LAREDO,Webb,T
 KODI RENER,14,female,white,1307736,endangeredRunaway,2002,2017,AUSTIN,Travis,TX
 ANA REYNA,26,female,hispanic,1104837,endangeredRunaway,1991,2008,DALLAS,Dallas,TX
 GABBY REYNA,17,female,hispanic,1294504,endangeredRunaway,2000,2017,SAN ANTONIO,Bexar,TX
-ROSE REYNA,16,female,hispanic,1307177,endangeredRunaway,2000,2017,DALLAS,Dallas,TX
 MARQUETTA RICE,14,female,black,1307499,endangeredRunaway,2002,2017,DALLAS,Dallas,TX
 MICHELLE RICHARDSON,44,female,white,783143,endangeredMissing,1972,1989,PALESTINE,,TX
 ANDRES RINK,10,male,biracial,1170424,familyAbduct,2007,2011,SAN ANTONIO,Bexar,TX
@@ -296,7 +291,6 @@ JENNA ROBBINS,37,female,white,601879,nonFamilyAbduct,1980,1989,KILLEEN,Bell,TX
 BLANCA ROBERSON,41,female,hispanic,731626,nonFamilyAbduct,1976,1989,ARANSAS PASS,,TX
 BRITTNEY ROBLEDO,18,female,hispanic,1261782,endangeredRunaway,1999,2015,SAN ANTONIO,Bexar,TX
 VIRGINIA ROCHA-QUINONES,17,female,hispanic,1271378,endangeredRunaway,1999,2016,SAN ANTONIO,Bexar,TX
-DYLAN RODELA,17,male,biracial,1306327,endangeredRunaway,1999,2017,CONROE,Montgomery,TX
 ANGIE RODRIGUEZ,17,female,hispanic,1275891,endangeredRunaway,2000,2016,HOUSTON,Harris,TX
 CHRISTIAN RODRIGUEZ,19,male,hispanic,1245896,endangeredRunaway,1998,2015,SOUTH HOUSTON,Harris,TX
 CLARISSA RODRIGUEZ,17,female,hispanic,1303553,endangeredRunaway,2000,2017,BAYTOWN,Harris,TX
@@ -306,7 +300,7 @@ SHELBY RODRIGUEZ,18,female,hispanic,1292076,endangeredRunaway,1999,2017,SUGAR LA
 VICTOR RODRIGUEZ IV,22,male,hispanic,R0905002,endangeredRunaway,1995,2009,EAGLE PASS,Maverick,TX
 ROBERT ROMERO,24,male,whiteHisp,887928,endangeredMissing,1993,2000,SANTA FE,,NM
 VANESSA RONNEBAUM,17,female,amInd,1301879,endangeredRunaway,2000,2017,EL PASO,El Paso,TX
-MARTHA RUIZ,14,female,hispanic,1308213,endangeredRunaway,2002,2017,BRYAN,Brazos,TX
+VANESSA RONNEBAUM,17,female,amInd,1307410,endangeredRunaway,2000,2017,EL PASO,El Paso,TX
 SERGIO SALAS,15,male,hispanic,1261681,endangeredRunaway,2001,2016,CORPUS CHRISTI,Nueces,TX
 JULIAN SAM,35,male,black,1193249,endangeredRunaway,1982,1998,LA MARQUE,Galveston,TX
 JULIAN SAM,35,male,black,R0010007,endangeredRunaway,1982,2000,LA MARQUE,GALVESTON,TX
@@ -339,7 +333,7 @@ JERRIAH COMANS,11,male,hispanic,1301358,familyAbduct,2016,2017,AMARILLO,Randall 
 BRANASHA THOMAS,16,female,black,1299335,endangeredRunaway,2001,2017,HOUSTON,Harris,TX
 DORIEN THOMAS,28,male,black,855596,endangeredMissing,1989,1998,AMARILLO,Potter,TX
 MICHELLE THOMAS,49,female,white,M9311003,endangeredMissing,1967,1985,ALTA LOMA,Galveston,TX
-MAKAYLA THOMPSON,16,female,white,1289120,endangeredRunaway,2001,2017,MAKAYLA,Harris,TX
+KEVIN TORRES LOPEZ,12,male,hispanic,1308397,endangeredRunaway,2005,2017,HOUSTON,Harris,TX
 CHEYENNE TOWNSEND,19,female,white,1235466,endangeredRunaway,1997,2014,HUNTSVILLE,Walker,TX
 VENUS TRAN,17,female,asian,1273048,endangeredRunaway,2000,2014,SPRING,Harris,TX
 MARY TRLICA,59,female,white,601926,nonFamilyAbduct,1957,1974,FORT WORTH,Tarrant,TX
@@ -366,4 +360,5 @@ ANTHONY WOODSON,41,male,black,735170,nonFamilyAbduct,1976,1981,MANSFIELD,Tarrant
 SAVANNAH WRIGHT,17,female,white,1308787,endangeredRunaway,2000,2017,SAN ANTONIO,Bexar,TX
 TASHA WRIGHT,38,female,black,A8910006,endangeredMissing,1979,1989,DALLAS,DALLAS,TX
 WILLIAM XU,18,male,asian,1029005,familyAbduct,1999,2005,COLLEGE STATION,Brazos,TX
-AYSSA ZAMORA,15,female,hispanic,1307687,endangeredRunaway,2001,2017,BROWNSVILLE,Cameron County,TX
+ASHLEY ZAMORA,17,female,hispanic,1308263,endangeredRunaway,2000,2017,BROWNSVILLE,Cameron,TX
+AYSSA ZAMORA,16,female,hispanic,1307687,endangeredRunaway,2001,2017,BROWNSVILLE,Cameron County,TX
